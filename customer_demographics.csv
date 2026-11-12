@@ -1,0 +1,1001 @@
+customer_id,age,gender,annual_income,spending_score,education,profession,marital_status,family_size,city,membership_years,purchase_frequency,preferred_category
+CUST0001,22,Female,72333,40,Master's,Healthcare,Single,4,Bengaluru,3,17,Home & Living
+CUST0002,59,Female,41957,16,High School,Other,Married,6,Kolkata,10,10,Beauty
+CUST0003,52,Female,39632,37,Bachelor's,Finance,Single,3,Bengaluru,4,8,Fashion
+CUST0004,41,Female,63275,33,Bachelor's,Education,Widowed,2,Delhi,15,8,Beauty
+CUST0005,40,Female,72794,47,Bachelor's,Technology,Single,2,Kolkata,7,7,Home & Living
+CUST0006,63,Female,55725,32,PhD,Healthcare,Married,1,Other,8,7,Groceries
+CUST0007,22,Male,31845,32,High School,Education,Single,2,Other,14,7,Beauty
+CUST0008,54,Female,30515,58,Master's,Technology,Widowed,3,Other,4,11,Groceries
+CUST0009,28,Female,29312,50,Master's,Finance,Single,3,Delhi,7,11,Electronics
+CUST0010,22,Male,23183,36,Bachelor's,Other,Married,3,Bengaluru,8,10,Fashion
+CUST0011,45,Male,56971,42,Bachelor's,Technology,Married,4,Mumbai,4,9,Beauty
+CUST0012,69,Female,75251,48,Bachelor's,Technology,Single,2,Mumbai,0,11,Home & Living
+CUST0013,56,Male,54759,53,Bachelor's,Student,Married,1,Bengaluru,4,8,Home & Living
+CUST0014,58,Male,14313,35,Master's,Retail,Single,1,Chennai,1,12,Sports
+CUST0015,56,Male,51566,29,Bachelor's,Education,Married,1,Bengaluru,10,7,Fashion
+CUST0016,59,Male,52070,46,Master's,Technology,Married,3,Mumbai,0,13,Electronics
+CUST0017,45,Male,92728,33,Bachelor's,Technology,Married,4,Other,5,6,Groceries
+CUST0018,24,Female,28772,42,Bachelor's,Student,Single,5,Other,14,12,Beauty
+CUST0019,62,Male,47968,56,Master's,Education,Single,3,Mumbai,9,11,Electronics
+CUST0020,41,Female,85705,62,Bachelor's,Finance,Single,2,Delhi,10,9,Sports
+CUST0021,44,Female,63100,86,Master's,Technology,Single,1,Chennai,10,11,Beauty
+CUST0022,37,Male,65140,40,High School,Student,Single,2,Mumbai,4,5,Electronics
+CUST0023,27,Male,57063,57,PhD,Education,Divorced,2,Other,10,10,Electronics
+CUST0024,67,Female,60939,48,Master's,Finance,Married,5,Bengaluru,3,13,Beauty
+CUST0025,59,Male,68997,53,Master's,Healthcare,Married,3,Kolkata,10,10,Electronics
+CUST0026,52,Male,40429,38,Bachelor's,Technology,Single,2,Delhi,10,9,Sports
+CUST0027,39,Female,70805,61,Master's,Technology,Single,2,Kolkata,14,5,Sports
+CUST0028,61,Other,30286,48,Bachelor's,Retail,Married,1,Bengaluru,14,10,Fashion
+CUST0029,46,Female,60911,77,Master's,Other,Single,5,Mumbai,0,7,Fashion
+CUST0030,41,Male,58217,52,High School,Retail,Single,1,Pune,4,7,Home & Living
+CUST0031,41,Female,43907,58,Bachelor's,Education,Married,1,Other,8,10,Home & Living
+CUST0032,30,Female,54592,39,Bachelor's,Retail,Married,2,Delhi,5,9,Beauty
+CUST0033,22,Male,43794,61,Bachelor's,Healthcare,Widowed,4,Other,9,7,Home & Living
+CUST0034,47,Female,35709,24,Bachelor's,Student,Single,3,Chennai,13,9,Beauty
+CUST0035,65,Male,48635,62,Master's,Healthcare,Married,3,Mumbai,4,9,Fashion
+CUST0036,21,Male,35128,82,Bachelor's,Finance,Single,2,Bengaluru,14,9,Fashion
+CUST0037,63,Female,60810,47,Master's,Finance,Single,1,Bengaluru,14,9,Fashion
+CUST0038,61,Male,34298,1,High School,Other,Married,5,Delhi,14,10,Home & Living
+CUST0039,32,Male,67816,49,Master's,Other,Single,2,Pune,1,16,Electronics
+CUST0040,51,Female,33733,58,Master's,Technology,Married,1,Kolkata,4,9,Beauty
+CUST0041,26,Other,44807,57,Bachelor's,Student,Married,3,Kolkata,1,11,Sports
+CUST0042,58,Female,43757,45,Master's,Technology,Single,1,Mumbai,1,11,Beauty
+CUST0043,55,Female,78853,79,Master's,Other,Divorced,1,Delhi,0,7,Beauty
+CUST0044,36,Other,60945,63,Master's,Retail,Married,4,Kolkata,7,7,Electronics
+CUST0045,21,Male,51189,73,Bachelor's,Student,Married,3,Bengaluru,1,17,Sports
+CUST0046,69,Male,63977,66,Bachelor's,Technology,Married,2,Bengaluru,4,6,Home & Living
+CUST0047,41,Male,17071,56,Master's,Education,Divorced,2,Delhi,15,9,Sports
+CUST0048,65,Male,54224,52,Bachelor's,Finance,Single,4,Pune,14,12,Beauty
+CUST0049,53,Female,90955,84,Master's,Other,Married,1,Other,14,6,Home & Living
+CUST0050,59,Male,57382,42,Bachelor's,Retail,Married,1,Hyderabad,0,12,Electronics
+CUST0051,58,Male,56222,37,Master's,Technology,Single,3,Chennai,10,11,Beauty
+CUST0052,28,Male,64866,88,High School,Student,Single,3,Other,10,7,Groceries
+CUST0053,37,Male,71121,63,High School,Finance,Widowed,6,Mumbai,2,6,Groceries
+CUST0054,42,Female,19046,44,PhD,Education,Married,2,Bengaluru,14,14,Home & Living
+CUST0055,44,Male,24718,35,Master's,Other,Married,1,Kolkata,6,10,Beauty
+CUST0056,20,Male,58785,45,Master's,Finance,Married,3,Hyderabad,15,12,Home & Living
+CUST0057,46,Male,42132,42,PhD,Education,Married,3,Kolkata,1,6,Fashion
+CUST0058,26,Female,78616,91,Bachelor's,Healthcare,Divorced,1,Hyderabad,10,8,Sports
+CUST0059,57,Female,49327,54,Bachelor's,Student,Married,3,Pune,2,10,Home & Living
+CUST0060,54,Female,20178,1,High School,Other,Single,2,Delhi,15,9,Electronics
+CUST0061,66,Male,32176,29,Bachelor's,Retail,Single,4,Chennai,9,8,Home & Living
+CUST0062,57,Male,12000,55,High School,Technology,Married,4,Mumbai,1,8,Sports
+CUST0063,37,Female,50786,44,PhD,Finance,Married,2,Bengaluru,3,7,Beauty
+CUST0064,69,Female,51609,10,High School,Healthcare,Married,6,Chennai,5,6,Fashion
+CUST0065,39,Female,47360,80,High School,Education,Single,6,Delhi,0,8,Home & Living
+CUST0066,35,Female,74420,74,High School,Retail,Single,1,Pune,0,9,Sports
+CUST0067,65,Female,76573,56,High School,Retail,Married,2,Bengaluru,14,10,Home & Living
+CUST0068,37,Male,51933,42,High School,Technology,Married,3,Bengaluru,15,8,Groceries
+CUST0069,22,Male,16576,51,Bachelor's,Healthcare,Single,1,Pune,8,12,Fashion
+CUST0070,42,Female,66111,46,Bachelor's,Retail,Married,2,Delhi,14,6,Electronics
+CUST0071,60,Male,64996,73,Bachelor's,Other,Married,2,Bengaluru,10,6,Sports
+CUST0072,28,Female,60569,65,Master's,Student,Divorced,6,Other,0,7,Beauty
+CUST0073,42,Female,72667,64,Bachelor's,Retail,Single,2,Bengaluru,11,3,Home & Living
+CUST0074,24,Female,34033,44,Master's,Education,Divorced,4,Kolkata,0,6,Sports
+CUST0075,54,Female,91158,64,Bachelor's,Finance,Married,2,Mumbai,13,3,Sports
+CUST0076,43,Female,37730,59,High School,Student,Married,1,Other,5,11,Groceries
+CUST0077,35,Female,68486,43,Bachelor's,Finance,Single,5,Pune,2,9,Home & Living
+CUST0078,30,Female,24628,6,PhD,Finance,Married,1,Pune,4,7,Fashion
+CUST0079,47,Female,38255,50,Bachelor's,Finance,Married,1,Mumbai,10,12,Fashion
+CUST0080,53,Male,82295,74,Bachelor's,Retail,Single,2,Pune,13,6,Home & Living
+CUST0081,67,Female,50304,51,Bachelor's,Other,Married,4,Bengaluru,9,10,Home & Living
+CUST0082,41,Female,70119,66,Master's,Retail,Married,2,Pune,2,11,Beauty
+CUST0083,26,Male,59265,49,Bachelor's,Retail,Married,1,Other,14,14,Fashion
+CUST0084,62,Male,53111,59,Bachelor's,Other,Single,2,Delhi,12,6,Fashion
+CUST0085,51,Female,79549,61,Master's,Finance,Married,2,Other,6,17,Electronics
+CUST0086,55,Female,50740,36,Master's,Finance,Single,1,Hyderabad,8,12,Beauty
+CUST0087,23,Male,22947,30,Bachelor's,Education,Divorced,3,Hyderabad,15,8,Sports
+CUST0088,34,Male,40542,79,High School,Retail,Widowed,1,Pune,6,11,Fashion
+CUST0089,58,Male,64921,21,High School,Student,Single,2,Delhi,0,9,Beauty
+CUST0090,62,Male,62119,59,PhD,Education,Single,3,Hyderabad,2,7,Sports
+CUST0091,41,Female,26793,4,Bachelor's,Healthcare,Single,4,Delhi,9,7,Groceries
+CUST0092,60,Male,41962,37,Bachelor's,Other,Married,2,Mumbai,15,9,Groceries
+CUST0093,62,Male,44529,32,Bachelor's,Student,Divorced,2,Kolkata,11,6,Home & Living
+CUST0094,38,Female,48422,9,High School,Finance,Married,2,Delhi,9,9,Electronics
+CUST0095,65,Male,30234,39,Master's,Technology,Single,6,Other,5,10,Fashion
+CUST0096,33,Male,43689,38,High School,Other,Single,2,Mumbai,7,9,Beauty
+CUST0097,30,Female,41885,7,Master's,Retail,Single,2,Bengaluru,0,7,Fashion
+CUST0098,54,Female,68888,70,Bachelor's,Technology,Married,3,Bengaluru,5,12,Electronics
+CUST0099,51,Other,69564,82,Bachelor's,Other,Married,2,Hyderabad,9,5,Beauty
+CUST0100,25,Female,52375,78,High School,Education,Married,1,Chennai,14,8,Beauty
+CUST0101,62,Male,47943,49,Master's,Other,Single,1,Chennai,14,9,Sports
+CUST0102,28,Female,57519,54,High School,Retail,Divorced,3,Pune,13,9,Electronics
+CUST0103,60,Female,40302,62,High School,Student,Single,3,Bengaluru,0,8,Beauty
+CUST0104,18,Female,34357,73,Master's,Technology,Married,4,Pune,12,11,Fashion
+CUST0105,60,Female,38076,57,Bachelor's,Healthcare,Divorced,4,Other,3,6,Electronics
+CUST0106,59,Female,43573,23,Bachelor's,Technology,Married,2,Hyderabad,9,11,Beauty
+CUST0107,59,Female,34057,39,High School,Student,Divorced,5,Kolkata,15,5,Fashion
+CUST0108,53,Male,57917,57,Master's,Other,Single,4,Mumbai,14,11,Home & Living
+CUST0109,42,Female,68135,24,Bachelor's,Other,Married,4,Chennai,10,10,Electronics
+CUST0110,55,Male,26432,40,High School,Education,Single,4,Bengaluru,4,10,Fashion
+CUST0111,32,Female,55452,93,Bachelor's,Technology,Married,2,Mumbai,8,6,Beauty
+CUST0112,59,Female,51041,56,High School,Technology,Single,2,Mumbai,11,13,Home & Living
+CUST0113,47,Female,61147,79,Bachelor's,Other,Single,2,Kolkata,8,12,Beauty
+CUST0114,42,Other,54767,53,High School,Healthcare,Single,1,Delhi,6,8,Fashion
+CUST0115,44,Male,28835,33,High School,Student,Single,3,Pune,6,6,Beauty
+CUST0116,48,Female,32277,43,Bachelor's,Healthcare,Married,1,Kolkata,9,8,Beauty
+CUST0117,19,Female,55530,39,Master's,Education,Married,1,Pune,0,10,Beauty
+CUST0118,25,Male,73518,46,High School,Finance,Single,5,Mumbai,15,13,Electronics
+CUST0119,31,Male,15145,52,High School,Healthcare,Widowed,4,Pune,1,13,Electronics
+CUST0120,24,Male,61223,81,Master's,Other,Divorced,3,Mumbai,15,6,Home & Living
+CUST0121,41,Female,76413,44,Master's,Finance,Single,2,Pune,0,10,Electronics
+CUST0122,53,Female,52246,64,Master's,Other,Married,3,Chennai,8,8,Electronics
+CUST0123,52,Other,64904,52,High School,Healthcare,Married,5,Pune,6,11,Sports
+CUST0124,42,Male,42345,49,Bachelor's,Finance,Married,4,Kolkata,9,7,Sports
+CUST0125,63,Other,52851,53,High School,Healthcare,Single,3,Pune,6,9,Beauty
+CUST0126,47,Male,25824,50,High School,Finance,Married,3,Mumbai,14,13,Beauty
+CUST0127,22,Female,12802,31,Bachelor's,Retail,Single,2,Mumbai,0,8,Electronics
+CUST0128,58,Male,71970,82,Bachelor's,Healthcare,Single,4,Kolkata,15,8,Sports
+CUST0129,48,Female,37270,44,Bachelor's,Other,Married,6,Other,11,6,Electronics
+CUST0130,51,Female,46800,55,Bachelor's,Other,Married,2,Hyderabad,12,10,Groceries
+CUST0131,47,Female,30044,20,Bachelor's,Other,Married,2,Other,2,11,Fashion
+CUST0132,47,Female,29621,73,Bachelor's,Technology,Single,2,Chennai,1,8,Fashion
+CUST0133,22,Male,51871,60,Master's,Retail,Single,2,Delhi,6,12,Sports
+CUST0134,47,Male,41868,54,Master's,Student,Single,6,Mumbai,5,11,Electronics
+CUST0135,60,Male,61803,21,Bachelor's,Student,Single,4,Bengaluru,12,11,Sports
+CUST0136,34,Male,63146,41,Bachelor's,Other,Single,2,Delhi,14,11,Beauty
+CUST0137,49,Female,60775,74,Bachelor's,Technology,Married,2,Other,6,6,Home & Living
+CUST0138,19,Female,59295,61,High School,Other,Married,3,Other,12,8,Electronics
+CUST0139,36,Female,83400,32,Master's,Education,Married,1,Chennai,0,8,Home & Living
+CUST0140,41,Female,35783,58,High School,Healthcare,Married,3,Chennai,11,9,Home & Living
+CUST0141,70,Female,54011,34,Bachelor's,Student,Single,4,Hyderabad,1,8,Groceries
+CUST0142,29,Female,75388,89,Bachelor's,Finance,Married,4,Hyderabad,10,6,Groceries
+CUST0143,32,Male,77762,63,High School,Retail,Single,2,Kolkata,6,8,Groceries
+CUST0144,39,Male,29408,40,High School,Education,Divorced,4,Chennai,6,8,Beauty
+CUST0145,70,Female,49378,63,Bachelor's,Retail,Single,4,Pune,4,11,Electronics
+CUST0146,63,Female,79446,43,PhD,Healthcare,Married,2,Pune,6,14,Home & Living
+CUST0147,19,Male,64145,41,Bachelor's,Education,Divorced,3,Chennai,13,8,Fashion
+CUST0148,30,Female,58515,50,Bachelor's,Healthcare,Married,3,Other,12,8,Home & Living
+CUST0149,61,Female,51082,59,High School,Finance,Married,4,Chennai,5,16,Electronics
+CUST0150,21,Male,48092,26,Bachelor's,Student,Married,1,Bengaluru,4,10,Beauty
+CUST0151,63,Male,60188,19,High School,Education,Single,2,Bengaluru,8,7,Groceries
+CUST0152,32,Female,50457,64,Bachelor's,Education,Married,3,Hyderabad,10,12,Beauty
+CUST0153,66,Female,54234,34,Master's,Education,Divorced,1,Other,2,11,Electronics
+CUST0154,33,Male,56415,45,Bachelor's,Education,Widowed,2,Delhi,11,10,Home & Living
+CUST0155,41,Female,42795,10,Bachelor's,Finance,Married,4,Mumbai,15,7,Sports
+CUST0156,53,Male,64578,41,High School,Education,Single,1,Hyderabad,13,8,Sports
+CUST0157,24,Female,107456,82,High School,Technology,Married,3,Pune,8,5,Electronics
+CUST0158,47,Male,23014,48,Bachelor's,Technology,Married,6,Bengaluru,5,18,Home & Living
+CUST0159,44,Female,60832,39,Master's,Finance,Single,3,Hyderabad,5,5,Electronics
+CUST0160,59,Male,41317,69,High School,Other,Single,3,Kolkata,11,10,Groceries
+CUST0161,70,Male,65393,38,Bachelor's,Retail,Single,3,Mumbai,7,10,Electronics
+CUST0162,53,Female,55838,36,Master's,Finance,Married,2,Other,1,7,Electronics
+CUST0163,39,Male,68713,85,High School,Other,Single,1,Chennai,10,11,Sports
+CUST0164,39,Male,76159,66,High School,Other,Single,4,Pune,2,12,Sports
+CUST0165,40,Male,58464,42,Bachelor's,Education,Single,2,Delhi,15,6,Beauty
+CUST0166,61,Female,75377,55,Master's,Student,Divorced,2,Mumbai,6,8,Sports
+CUST0167,35,Female,12803,52,Bachelor's,Finance,Single,1,Other,5,8,Home & Living
+CUST0168,26,Other,83628,95,Master's,Finance,Single,4,Other,0,7,Electronics
+CUST0169,35,Male,61751,40,Master's,Technology,Married,1,Other,2,8,Sports
+CUST0170,19,Male,74401,64,Master's,Retail,Single,4,Mumbai,15,10,Fashion
+CUST0171,23,Male,33042,42,PhD,Other,Widowed,2,Pune,8,10,Electronics
+CUST0172,22,Female,40046,27,Master's,Healthcare,Divorced,3,Bengaluru,14,10,Sports
+CUST0173,58,Other,57627,47,Master's,Education,Married,2,Pune,15,10,Home & Living
+CUST0174,56,Female,54693,47,Master's,Technology,Married,1,Pune,0,9,Electronics
+CUST0175,54,Female,60095,71,Master's,Technology,Single,3,Bengaluru,6,11,Home & Living
+CUST0176,42,Male,74521,82,Master's,Technology,Single,4,Mumbai,13,11,Sports
+CUST0177,56,Female,23226,24,PhD,Healthcare,Single,2,Other,7,13,Groceries
+CUST0178,26,Female,72529,58,Bachelor's,Technology,Single,3,Bengaluru,8,11,Sports
+CUST0179,65,Male,55149,58,Bachelor's,Technology,Single,3,Bengaluru,9,4,Home & Living
+CUST0180,44,Male,51332,37,Bachelor's,Education,Married,2,Hyderabad,11,8,Groceries
+CUST0181,67,Male,28520,41,Master's,Finance,Single,3,Other,15,7,Fashion
+CUST0182,26,Male,64055,56,Bachelor's,Healthcare,Single,1,Delhi,14,11,Fashion
+CUST0183,44,Male,12000,8,Master's,Education,Married,3,Other,10,5,Sports
+CUST0184,54,Male,66671,37,Master's,Technology,Married,1,Bengaluru,9,6,Groceries
+CUST0185,44,Female,28142,60,PhD,Finance,Single,3,Kolkata,5,11,Sports
+CUST0186,41,Male,55962,48,High School,Finance,Single,2,Mumbai,1,4,Groceries
+CUST0187,26,Male,52855,81,Master's,Other,Single,3,Bengaluru,11,16,Home & Living
+CUST0188,38,Female,76052,53,Master's,Student,Single,3,Hyderabad,0,8,Home & Living
+CUST0189,30,Female,51784,55,PhD,Retail,Married,5,Chennai,11,9,Groceries
+CUST0190,33,Female,42506,87,Master's,Healthcare,Divorced,3,Delhi,7,10,Sports
+CUST0191,54,Male,45881,23,Bachelor's,Student,Married,4,Bengaluru,12,10,Beauty
+CUST0192,51,Female,77912,27,Bachelor's,Finance,Married,2,Delhi,15,3,Beauty
+CUST0193,50,Male,64653,77,High School,Technology,Married,2,Mumbai,8,5,Beauty
+CUST0194,37,Male,48059,32,PhD,Technology,Married,1,Hyderabad,9,9,Electronics
+CUST0195,68,Female,50744,42,Bachelor's,Other,Single,2,Pune,7,8,Sports
+CUST0196,22,Female,26791,27,Master's,Technology,Single,4,Delhi,5,2,Sports
+CUST0197,36,Female,61993,59,Master's,Education,Married,4,Chennai,1,11,Groceries
+CUST0198,24,Female,23323,18,Bachelor's,Technology,Married,3,Bengaluru,0,8,Fashion
+CUST0199,35,Female,68532,55,High School,Student,Single,3,Mumbai,11,11,Electronics
+CUST0200,68,Male,57315,54,High School,Student,Single,1,Hyderabad,14,6,Beauty
+CUST0201,37,Male,97965,56,Master's,Student,Single,1,Delhi,0,7,Beauty
+CUST0202,66,Male,35198,22,Bachelor's,Education,Single,4,Pune,5,6,Electronics
+CUST0203,44,Male,53152,42,High School,Education,Married,1,Bengaluru,9,8,Home & Living
+CUST0204,55,Female,87369,40,Master's,Student,Married,1,Kolkata,11,8,Home & Living
+CUST0205,42,Male,76445,54,Bachelor's,Healthcare,Married,5,Pune,11,10,Fashion
+CUST0206,32,Female,42468,47,Master's,Technology,Single,6,Pune,11,16,Home & Living
+CUST0207,58,Female,59031,42,Bachelor's,Education,Single,3,Chennai,1,9,Sports
+CUST0208,69,Female,55036,40,High School,Other,Married,2,Hyderabad,4,6,Fashion
+CUST0209,31,Male,60075,54,High School,Finance,Married,4,Delhi,7,7,Sports
+CUST0210,59,Male,42424,28,Bachelor's,Other,Single,2,Mumbai,1,11,Beauty
+CUST0211,31,Other,53392,63,Bachelor's,Technology,Single,2,Mumbai,5,9,Groceries
+CUST0212,55,Female,26235,57,Master's,Technology,Married,2,Pune,6,12,Electronics
+CUST0213,59,Female,57432,40,Bachelor's,Retail,Married,5,Mumbai,15,3,Fashion
+CUST0214,41,Female,63100,63,Bachelor's,Healthcare,Divorced,5,Hyderabad,5,9,Electronics
+CUST0215,57,Female,50906,40,Bachelor's,Retail,Married,4,Mumbai,15,6,Groceries
+CUST0216,32,Male,25929,42,Bachelor's,Education,Married,1,Chennai,11,9,Home & Living
+CUST0217,22,Female,72794,91,Master's,Technology,Married,3,Delhi,11,7,Fashion
+CUST0218,23,Male,61561,66,High School,Retail,Single,2,Chennai,13,7,Home & Living
+CUST0219,41,Female,41932,11,PhD,Education,Married,5,Kolkata,13,9,Beauty
+CUST0220,65,Female,49949,51,Bachelor's,Retail,Married,1,Hyderabad,3,8,Fashion
+CUST0221,24,Female,27988,60,High School,Education,Single,1,Kolkata,6,8,Beauty
+CUST0222,42,Male,36543,35,High School,Student,Divorced,4,Other,8,12,Fashion
+CUST0223,55,Male,45319,60,High School,Finance,Single,3,Pune,15,10,Home & Living
+CUST0224,28,Female,77112,52,Master's,Student,Single,4,Chennai,0,6,Electronics
+CUST0225,56,Male,43489,14,Bachelor's,Finance,Single,1,Other,7,12,Fashion
+CUST0226,34,Male,66524,60,Bachelor's,Healthcare,Divorced,4,Pune,3,9,Beauty
+CUST0227,60,Male,45310,9,Bachelor's,Retail,Divorced,1,Delhi,3,12,Home & Living
+CUST0228,48,Male,59463,47,Bachelor's,Other,Married,1,Hyderabad,12,7,Home & Living
+CUST0229,46,Male,52455,71,PhD,Healthcare,Divorced,3,Bengaluru,3,13,Home & Living
+CUST0230,27,Female,70715,27,PhD,Other,Divorced,2,Pune,12,5,Fashion
+CUST0231,42,Male,45373,21,Master's,Student,Married,3,Pune,15,8,Beauty
+CUST0232,63,Male,26694,12,Master's,Student,Married,1,Other,12,4,Groceries
+CUST0233,19,Male,30125,39,Master's,Other,Married,1,Bengaluru,2,9,Electronics
+CUST0234,58,Male,45426,35,Bachelor's,Finance,Married,4,Delhi,2,5,Beauty
+CUST0235,44,Male,32517,62,Master's,Education,Married,2,Delhi,6,6,Electronics
+CUST0236,56,Female,62384,68,High School,Technology,Married,4,Delhi,8,6,Beauty
+CUST0237,53,Male,46616,52,Master's,Healthcare,Single,4,Other,12,9,Fashion
+CUST0238,40,Male,97743,76,PhD,Finance,Married,1,Chennai,6,10,Electronics
+CUST0239,34,Male,23721,41,High School,Retail,Divorced,4,Mumbai,2,8,Fashion
+CUST0240,51,Male,58665,35,Master's,Other,Single,2,Bengaluru,15,5,Home & Living
+CUST0241,25,Male,34697,57,PhD,Healthcare,Widowed,2,Delhi,14,7,Home & Living
+CUST0242,48,Male,46119,24,High School,Education,Single,1,Chennai,10,3,Electronics
+CUST0243,23,Female,57546,70,Bachelor's,Technology,Single,4,Bengaluru,11,13,Fashion
+CUST0244,52,Male,13143,46,Master's,Student,Single,3,Pune,14,5,Fashion
+CUST0245,51,Female,59263,54,PhD,Education,Married,3,Kolkata,7,5,Home & Living
+CUST0246,22,Female,89252,69,High School,Finance,Married,6,Other,2,10,Beauty
+CUST0247,58,Male,46838,49,Bachelor's,Student,Single,2,Kolkata,9,8,Fashion
+CUST0248,40,Male,59677,1,Master's,Healthcare,Married,5,Bengaluru,7,6,Beauty
+CUST0249,59,Female,73449,62,High School,Finance,Single,4,Mumbai,12,7,Groceries
+CUST0250,20,Female,52049,50,Bachelor's,Retail,Married,5,Hyderabad,12,14,Electronics
+CUST0251,27,Male,44543,46,High School,Other,Divorced,5,Hyderabad,7,10,Fashion
+CUST0252,44,Male,14037,39,High School,Healthcare,Married,6,Delhi,5,6,Beauty
+CUST0253,27,Male,66538,57,Bachelor's,Healthcare,Married,1,Bengaluru,6,12,Sports
+CUST0254,35,Male,52963,29,Bachelor's,Other,Married,4,Chennai,10,11,Sports
+CUST0255,53,Female,36772,35,Bachelor's,Finance,Widowed,4,Bengaluru,10,9,Groceries
+CUST0256,25,Male,57279,55,Master's,Technology,Single,3,Kolkata,8,14,Sports
+CUST0257,53,Male,44494,44,Bachelor's,Finance,Single,2,Delhi,8,3,Sports
+CUST0258,23,Female,45488,51,Bachelor's,Technology,Single,6,Chennai,15,7,Sports
+CUST0259,27,Male,65913,77,High School,Education,Married,2,Mumbai,4,12,Home & Living
+CUST0260,49,Male,30909,15,High School,Healthcare,Married,3,Chennai,2,15,Home & Living
+CUST0261,60,Female,73852,60,Bachelor's,Other,Married,3,Delhi,12,9,Beauty
+CUST0262,27,Male,29842,62,High School,Student,Single,1,Hyderabad,14,5,Beauty
+CUST0263,33,Male,43071,13,High School,Retail,Single,4,Delhi,9,7,Home & Living
+CUST0264,67,Male,89613,68,High School,Technology,Married,1,Hyderabad,6,12,Fashion
+CUST0265,70,Female,75292,45,Bachelor's,Student,Widowed,4,Pune,5,9,Groceries
+CUST0266,48,Male,56757,43,Bachelor's,Finance,Single,4,Mumbai,7,8,Home & Living
+CUST0267,41,Male,38070,24,PhD,Finance,Single,2,Delhi,0,7,Sports
+CUST0268,36,Male,45473,42,Master's,Student,Single,4,Kolkata,8,8,Fashion
+CUST0269,50,Male,56319,82,Bachelor's,Student,Married,1,Mumbai,4,6,Electronics
+CUST0270,49,Female,55675,26,High School,Student,Single,4,Kolkata,4,13,Sports
+CUST0271,33,Male,53364,29,Bachelor's,Healthcare,Single,6,Other,8,7,Beauty
+CUST0272,19,Female,54445,30,High School,Student,Married,1,Other,15,10,Electronics
+CUST0273,26,Female,51141,81,Bachelor's,Finance,Single,4,Other,3,8,Fashion
+CUST0274,68,Female,29044,22,Bachelor's,Student,Married,3,Other,14,11,Groceries
+CUST0275,40,Male,45703,44,Bachelor's,Retail,Single,3,Chennai,8,9,Sports
+CUST0276,43,Female,71463,51,Bachelor's,Other,Divorced,4,Mumbai,15,12,Sports
+CUST0277,42,Female,30370,19,Master's,Retail,Married,3,Bengaluru,6,6,Groceries
+CUST0278,59,Male,51588,40,Master's,Other,Single,3,Mumbai,15,8,Fashion
+CUST0279,21,Female,40244,89,Master's,Other,Single,2,Pune,10,12,Groceries
+CUST0280,22,Female,57004,79,Bachelor's,Student,Married,2,Bengaluru,10,7,Fashion
+CUST0281,32,Male,48005,32,Bachelor's,Healthcare,Divorced,5,Bengaluru,9,14,Groceries
+CUST0282,43,Female,81593,76,High School,Retail,Single,1,Hyderabad,7,8,Fashion
+CUST0283,53,Male,64118,38,Master's,Healthcare,Single,3,Mumbai,8,11,Electronics
+CUST0284,44,Female,31388,4,Bachelor's,Retail,Single,2,Mumbai,13,11,Sports
+CUST0285,41,Other,67082,75,Bachelor's,Retail,Married,4,Delhi,12,11,Sports
+CUST0286,67,Male,41056,58,Bachelor's,Other,Divorced,3,Kolkata,0,11,Fashion
+CUST0287,26,Female,44614,66,PhD,Healthcare,Married,2,Kolkata,11,11,Groceries
+CUST0288,48,Male,60649,43,Bachelor's,Healthcare,Single,2,Bengaluru,13,12,Groceries
+CUST0289,46,Female,46149,41,Bachelor's,Student,Married,3,Other,11,7,Electronics
+CUST0290,43,Female,71071,72,Bachelor's,Technology,Married,6,Mumbai,7,15,Home & Living
+CUST0291,60,Male,41059,46,Bachelor's,Technology,Single,3,Hyderabad,5,9,Groceries
+CUST0292,32,Male,43859,38,Bachelor's,Education,Single,3,Mumbai,10,12,Beauty
+CUST0293,68,Male,43185,9,Bachelor's,Healthcare,Single,4,Mumbai,10,9,Groceries
+CUST0294,35,Male,44819,47,Bachelor's,Retail,Married,2,Delhi,5,16,Sports
+CUST0295,46,Male,74785,79,Master's,Retail,Married,2,Chennai,6,10,Groceries
+CUST0296,45,Male,66318,34,High School,Retail,Married,2,Hyderabad,5,12,Fashion
+CUST0297,63,Male,85779,74,Master's,Student,Married,1,Mumbai,0,6,Groceries
+CUST0298,41,Male,95818,78,Bachelor's,Education,Single,4,Chennai,0,10,Beauty
+CUST0299,33,Female,36447,54,Master's,Retail,Single,5,Bengaluru,1,8,Fashion
+CUST0300,19,Female,56268,70,Bachelor's,Technology,Single,5,Mumbai,6,11,Beauty
+CUST0301,37,Female,33828,26,Bachelor's,Healthcare,Divorced,5,Hyderabad,8,11,Home & Living
+CUST0302,61,Male,41003,9,Bachelor's,Retail,Married,3,Chennai,6,10,Sports
+CUST0303,18,Female,43659,38,PhD,Retail,Single,2,Kolkata,15,10,Sports
+CUST0304,65,Female,35971,51,Bachelor's,Retail,Single,3,Bengaluru,3,8,Home & Living
+CUST0305,46,Male,36066,29,Master's,Education,Married,6,Bengaluru,6,9,Home & Living
+CUST0306,25,Male,52403,39,Master's,Healthcare,Married,4,Pune,3,8,Electronics
+CUST0307,34,Female,33099,6,High School,Healthcare,Married,3,Mumbai,4,9,Sports
+CUST0308,47,Male,70158,89,Bachelor's,Finance,Single,4,Other,9,8,Sports
+CUST0309,34,Female,38480,57,Bachelor's,Healthcare,Divorced,4,Chennai,4,9,Electronics
+CUST0310,23,Other,105572,95,Bachelor's,Healthcare,Married,5,Delhi,5,7,Home & Living
+CUST0311,53,Male,46875,61,Bachelor's,Technology,Married,4,Bengaluru,10,11,Home & Living
+CUST0312,53,Male,56296,59,Bachelor's,Education,Married,3,Other,13,13,Fashion
+CUST0313,24,Other,31684,36,Bachelor's,Technology,Divorced,2,Mumbai,3,5,Electronics
+CUST0314,32,Female,85710,66,High School,Education,Divorced,3,Hyderabad,1,11,Electronics
+CUST0315,30,Male,75151,55,Master's,Other,Married,2,Pune,3,11,Fashion
+CUST0316,52,Female,60344,98,Bachelor's,Retail,Married,5,Hyderabad,9,9,Fashion
+CUST0317,56,Female,30758,44,Master's,Education,Single,3,Kolkata,15,6,Fashion
+CUST0318,56,Female,58792,41,High School,Other,Married,3,Mumbai,2,8,Home & Living
+CUST0319,67,Female,34814,42,Bachelor's,Other,Married,2,Mumbai,0,7,Groceries
+CUST0320,58,Male,81322,43,High School,Education,Single,3,Mumbai,8,11,Electronics
+CUST0321,34,Male,69566,86,Master's,Retail,Single,3,Other,15,13,Electronics
+CUST0322,23,Female,56718,42,Bachelor's,Healthcare,Divorced,1,Kolkata,8,18,Home & Living
+CUST0323,50,Male,12000,33,PhD,Other,Divorced,5,Chennai,14,14,Beauty
+CUST0324,66,Female,37299,55,Bachelor's,Healthcare,Divorced,2,Other,10,8,Sports
+CUST0325,69,Female,67380,59,Bachelor's,Technology,Married,3,Other,0,10,Sports
+CUST0326,30,Male,76832,66,Bachelor's,Student,Married,2,Chennai,6,12,Fashion
+CUST0327,30,Female,74965,63,Bachelor's,Retail,Married,3,Other,12,13,Sports
+CUST0328,19,Male,26344,37,Bachelor's,Healthcare,Single,4,Bengaluru,8,10,Electronics
+CUST0329,25,Female,60428,45,Bachelor's,Retail,Single,5,Chennai,3,15,Fashion
+CUST0330,47,Male,73279,51,High School,Student,Widowed,1,Chennai,2,10,Electronics
+CUST0331,46,Female,25150,59,High School,Education,Single,6,Kolkata,10,8,Fashion
+CUST0332,37,Female,54858,49,High School,Healthcare,Married,4,Kolkata,7,8,Groceries
+CUST0333,34,Male,59929,40,PhD,Education,Married,2,Other,9,9,Electronics
+CUST0334,61,Female,49586,34,Bachelor's,Technology,Married,2,Delhi,5,14,Sports
+CUST0335,42,Female,21661,51,High School,Student,Single,2,Mumbai,5,6,Sports
+CUST0336,60,Female,49137,55,PhD,Healthcare,Married,5,Chennai,10,10,Home & Living
+CUST0337,69,Female,49109,52,High School,Education,Single,2,Chennai,0,8,Fashion
+CUST0338,34,Other,52335,45,Bachelor's,Retail,Married,3,Chennai,6,10,Beauty
+CUST0339,28,Male,44858,57,Master's,Education,Single,4,Other,5,6,Electronics
+CUST0340,68,Female,47026,29,Master's,Technology,Married,5,Pune,12,11,Beauty
+CUST0341,51,Male,54285,43,Master's,Technology,Married,4,Other,11,5,Sports
+CUST0342,33,Female,62964,73,Bachelor's,Finance,Single,4,Hyderabad,6,7,Fashion
+CUST0343,50,Female,49520,61,PhD,Education,Single,1,Other,4,11,Fashion
+CUST0344,45,Male,47626,27,High School,Other,Married,5,Chennai,3,14,Sports
+CUST0345,65,Male,56662,31,PhD,Education,Single,2,Chennai,3,5,Sports
+CUST0346,31,Female,20424,34,Master's,Education,Single,1,Pune,4,10,Groceries
+CUST0347,70,Male,63587,80,Master's,Student,Married,6,Pune,12,4,Electronics
+CUST0348,67,Female,54990,11,Bachelor's,Technology,Divorced,2,Kolkata,0,6,Groceries
+CUST0349,27,Male,55714,58,High School,Retail,Married,1,Other,0,9,Groceries
+CUST0350,26,Female,72293,37,Bachelor's,Healthcare,Married,3,Hyderabad,8,8,Fashion
+CUST0351,46,Male,19849,18,Bachelor's,Healthcare,Widowed,2,Other,3,8,Beauty
+CUST0352,20,Male,19471,27,Bachelor's,Finance,Married,1,Hyderabad,13,11,Groceries
+CUST0353,33,Female,59928,46,Master's,Student,Married,3,Other,12,11,Fashion
+CUST0354,41,Female,54872,40,Bachelor's,Education,Married,4,Mumbai,12,6,Sports
+CUST0355,69,Male,58063,47,Bachelor's,Healthcare,Single,4,Delhi,7,7,Home & Living
+CUST0356,70,Male,46682,30,Bachelor's,Technology,Single,1,Delhi,7,8,Home & Living
+CUST0357,26,Female,66958,33,High School,Healthcare,Married,3,Mumbai,6,5,Home & Living
+CUST0358,65,Female,71787,69,High School,Education,Single,4,Delhi,3,7,Fashion
+CUST0359,22,Male,63712,72,High School,Technology,Married,1,Bengaluru,9,14,Fashion
+CUST0360,57,Female,50305,60,Master's,Education,Single,2,Delhi,13,10,Electronics
+CUST0361,62,Female,17062,1,Master's,Retail,Married,1,Delhi,4,7,Fashion
+CUST0362,65,Female,68846,59,Bachelor's,Technology,Single,3,Chennai,0,5,Home & Living
+CUST0363,29,Female,76991,76,Bachelor's,Other,Married,2,Pune,9,9,Groceries
+CUST0364,65,Female,66602,33,Bachelor's,Finance,Married,4,Delhi,6,6,Sports
+CUST0365,24,Male,39166,44,Master's,Retail,Single,6,Chennai,12,8,Sports
+CUST0366,45,Female,67128,54,Master's,Student,Single,2,Hyderabad,13,7,Home & Living
+CUST0367,42,Female,70490,91,Bachelor's,Retail,Single,3,Hyderabad,15,5,Electronics
+CUST0368,34,Female,83059,100,Master's,Healthcare,Married,2,Kolkata,6,10,Electronics
+CUST0369,19,Male,39230,15,Bachelor's,Finance,Single,1,Hyderabad,14,8,Fashion
+CUST0370,58,Male,50924,89,Bachelor's,Retail,Married,4,Kolkata,1,8,Fashion
+CUST0371,35,Female,68451,42,Master's,Technology,Single,3,Delhi,5,7,Electronics
+CUST0372,53,Male,56033,66,Bachelor's,Technology,Single,5,Mumbai,4,13,Sports
+CUST0373,39,Other,34888,56,Bachelor's,Student,Married,3,Pune,14,8,Groceries
+CUST0374,37,Male,62463,37,Bachelor's,Finance,Married,1,Delhi,9,13,Sports
+CUST0375,64,Female,65416,60,Bachelor's,Retail,Single,3,Pune,5,7,Fashion
+CUST0376,23,Female,56583,52,Bachelor's,Healthcare,Divorced,2,Other,2,9,Electronics
+CUST0377,57,Male,58953,59,Bachelor's,Technology,Single,5,Other,12,5,Electronics
+CUST0378,57,Male,50343,49,Bachelor's,Healthcare,Single,4,Mumbai,10,9,Groceries
+CUST0379,38,Female,81609,87,High School,Healthcare,Married,2,Kolkata,13,4,Groceries
+CUST0380,31,Female,38788,44,Master's,Other,Married,3,Delhi,7,6,Groceries
+CUST0381,18,Male,44428,45,Bachelor's,Student,Married,4,Pune,2,9,Beauty
+CUST0382,67,Female,55198,65,Master's,Healthcare,Single,4,Delhi,5,3,Home & Living
+CUST0383,68,Female,70821,64,High School,Finance,Divorced,1,Hyderabad,9,13,Sports
+CUST0384,30,Male,28047,50,Bachelor's,Technology,Married,1,Mumbai,3,4,Electronics
+CUST0385,19,Male,31415,29,Bachelor's,Other,Divorced,1,Pune,1,7,Groceries
+CUST0386,24,Male,18321,14,Master's,Other,Married,2,Chennai,13,8,Home & Living
+CUST0387,21,Male,55589,44,High School,Healthcare,Divorced,3,Chennai,8,10,Home & Living
+CUST0388,62,Male,34870,24,Master's,Retail,Married,1,Pune,6,6,Beauty
+CUST0389,65,Male,48078,56,Bachelor's,Retail,Single,2,Other,8,9,Groceries
+CUST0390,26,Female,66905,77,Bachelor's,Finance,Married,3,Mumbai,11,9,Groceries
+CUST0391,57,Male,43452,38,Bachelor's,Technology,Married,1,Chennai,0,11,Beauty
+CUST0392,27,Female,59163,80,High School,Student,Married,5,Hyderabad,7,11,Groceries
+CUST0393,37,Male,49612,72,Bachelor's,Healthcare,Married,3,Pune,4,12,Home & Living
+CUST0394,49,Male,67098,59,Bachelor's,Student,Single,2,Bengaluru,1,12,Electronics
+CUST0395,56,Female,63552,37,Bachelor's,Healthcare,Married,3,Mumbai,0,8,Electronics
+CUST0396,64,Female,42545,67,Bachelor's,Finance,Single,2,Pune,7,7,Electronics
+CUST0397,20,Male,51964,51,Bachelor's,Finance,Divorced,5,Other,8,7,Groceries
+CUST0398,28,Male,73787,65,High School,Technology,Single,3,Chennai,8,7,Beauty
+CUST0399,32,Male,62081,49,High School,Student,Single,3,Kolkata,12,9,Electronics
+CUST0400,34,Female,29855,21,High School,Technology,Married,5,Mumbai,7,9,Beauty
+CUST0401,70,Male,66801,25,High School,Education,Married,4,Bengaluru,9,12,Beauty
+CUST0402,59,Male,35477,47,Bachelor's,Retail,Married,4,Hyderabad,13,10,Electronics
+CUST0403,34,Male,80425,51,High School,Healthcare,Widowed,2,Hyderabad,10,13,Electronics
+CUST0404,69,Female,73434,100,Master's,Healthcare,Single,1,Pune,14,6,Beauty
+CUST0405,44,Female,60218,33,High School,Education,Married,4,Kolkata,3,12,Home & Living
+CUST0406,44,Female,57830,28,High School,Student,Single,3,Bengaluru,12,10,Fashion
+CUST0407,40,Female,51237,57,Master's,Technology,Married,4,Hyderabad,11,10,Beauty
+CUST0408,25,Male,67213,87,Bachelor's,Student,Married,4,Other,9,7,Home & Living
+CUST0409,67,Male,48326,43,Bachelor's,Education,Single,2,Delhi,0,10,Home & Living
+CUST0410,18,Male,59240,67,PhD,Education,Married,2,Other,8,9,Sports
+CUST0411,27,Female,70695,28,PhD,Finance,Married,3,Kolkata,13,14,Fashion
+CUST0412,30,Female,44887,34,Master's,Finance,Single,2,Delhi,10,12,Groceries
+CUST0413,32,Female,43909,26,High School,Healthcare,Divorced,4,Pune,0,6,Electronics
+CUST0414,24,Other,33501,7,Bachelor's,Other,Married,4,Pune,4,6,Home & Living
+CUST0415,18,Other,35839,45,PhD,Other,Single,3,Other,9,5,Beauty
+CUST0416,53,Female,22089,1,PhD,Student,Married,4,Chennai,12,9,Home & Living
+CUST0417,69,Male,68137,28,High School,Other,Single,3,Chennai,7,12,Sports
+CUST0418,24,Male,87560,61,Bachelor's,Technology,Single,4,Chennai,13,11,Fashion
+CUST0419,33,Male,80656,51,Bachelor's,Technology,Married,2,Chennai,12,12,Home & Living
+CUST0420,44,Female,25730,40,High School,Education,Single,4,Chennai,4,9,Beauty
+CUST0421,67,Male,68047,58,Master's,Student,Single,4,Mumbai,3,10,Electronics
+CUST0422,54,Female,80598,78,Bachelor's,Healthcare,Married,2,Pune,14,10,Fashion
+CUST0423,58,Female,46777,56,Bachelor's,Technology,Single,3,Mumbai,9,7,Sports
+CUST0424,48,Female,56826,70,High School,Education,Married,5,Chennai,13,13,Electronics
+CUST0425,40,Male,18858,30,Bachelor's,Retail,Married,2,Hyderabad,14,4,Fashion
+CUST0426,28,Male,59801,60,High School,Other,Single,4,Chennai,6,5,Beauty
+CUST0427,63,Male,35856,44,Bachelor's,Technology,Married,6,Chennai,0,11,Electronics
+CUST0428,60,Female,58593,51,High School,Education,Single,5,Kolkata,14,6,Groceries
+CUST0429,19,Female,26898,31,PhD,Education,Married,2,Mumbai,9,8,Fashion
+CUST0430,55,Female,64771,47,High School,Healthcare,Single,3,Bengaluru,1,19,Groceries
+CUST0431,22,Male,73441,49,Bachelor's,Finance,Divorced,6,Bengaluru,8,12,Fashion
+CUST0432,57,Male,40903,47,High School,Other,Single,3,Other,0,11,Fashion
+CUST0433,61,Male,34535,33,High School,Healthcare,Married,1,Other,4,10,Sports
+CUST0434,24,Female,16192,19,High School,Student,Single,1,Hyderabad,5,8,Electronics
+CUST0435,40,Female,50205,35,High School,Other,Single,4,Mumbai,7,8,Electronics
+CUST0436,24,Male,44531,25,High School,Other,Married,2,Kolkata,9,6,Fashion
+CUST0437,48,Female,27082,51,Bachelor's,Healthcare,Married,2,Pune,13,8,Sports
+CUST0438,67,Male,63154,51,Bachelor's,Education,Widowed,2,Other,5,9,Groceries
+CUST0439,22,Female,46901,33,High School,Other,Single,4,Bengaluru,11,8,Electronics
+CUST0440,39,Male,35637,54,Bachelor's,Education,Single,3,Pune,15,9,Home & Living
+CUST0441,69,Male,45018,29,Bachelor's,Education,Single,5,Other,11,8,Home & Living
+CUST0442,33,Female,74283,37,High School,Other,Single,4,Chennai,4,7,Groceries
+CUST0443,25,Male,65853,77,Bachelor's,Retail,Divorced,6,Delhi,10,9,Electronics
+CUST0444,43,Male,52660,38,High School,Education,Divorced,5,Kolkata,4,8,Beauty
+CUST0445,44,Male,66144,48,High School,Technology,Divorced,2,Pune,7,9,Beauty
+CUST0446,53,Male,34104,37,Bachelor's,Education,Single,4,Chennai,10,12,Beauty
+CUST0447,34,Female,55583,72,PhD,Finance,Married,1,Delhi,4,8,Beauty
+CUST0448,68,Female,57652,47,PhD,Technology,Married,6,Kolkata,0,10,Fashion
+CUST0449,45,Female,46543,23,PhD,Education,Single,2,Other,13,9,Groceries
+CUST0450,33,Male,62838,65,Bachelor's,Finance,Married,4,Mumbai,11,9,Beauty
+CUST0451,68,Female,40952,28,High School,Student,Single,4,Mumbai,1,9,Groceries
+CUST0452,67,Male,64177,84,Bachelor's,Education,Single,1,Hyderabad,6,9,Beauty
+CUST0453,44,Male,64933,55,High School,Retail,Divorced,4,Mumbai,4,10,Home & Living
+CUST0454,19,Male,12000,1,High School,Technology,Single,1,Other,15,15,Beauty
+CUST0455,49,Female,76426,67,High School,Education,Widowed,3,Hyderabad,15,7,Electronics
+CUST0456,47,Female,12000,60,Bachelor's,Finance,Single,3,Mumbai,11,10,Sports
+CUST0457,25,Female,43911,75,Bachelor's,Student,Single,2,Mumbai,7,6,Sports
+CUST0458,51,Female,73456,91,High School,Finance,Single,3,Pune,0,13,Fashion
+CUST0459,62,Female,49289,25,Master's,Technology,Single,5,Chennai,3,8,Sports
+CUST0460,23,Female,28609,55,Bachelor's,Healthcare,Married,2,Other,1,5,Fashion
+CUST0461,56,Female,35313,23,Master's,Finance,Single,3,Mumbai,12,6,Beauty
+CUST0462,25,Male,73484,67,High School,Student,Married,5,Kolkata,1,13,Beauty
+CUST0463,57,Male,20413,5,Bachelor's,Student,Divorced,4,Other,10,13,Electronics
+CUST0464,40,Male,75322,50,High School,Education,Single,1,Delhi,15,8,Home & Living
+CUST0465,18,Female,54008,41,Bachelor's,Other,Single,5,Pune,4,13,Groceries
+CUST0466,69,Female,33537,49,High School,Student,Married,1,Hyderabad,10,8,Beauty
+CUST0467,26,Female,44504,61,High School,Retail,Married,3,Delhi,14,4,Fashion
+CUST0468,49,Male,36690,43,Bachelor's,Student,Married,3,Pune,6,8,Sports
+CUST0469,27,Female,70592,37,Bachelor's,Education,Single,4,Kolkata,7,6,Electronics
+CUST0470,67,Male,68184,47,High School,Education,Married,1,Bengaluru,3,9,Fashion
+CUST0471,57,Male,24055,16,Master's,Education,Married,1,Mumbai,6,13,Beauty
+CUST0472,60,Male,47735,58,High School,Student,Single,4,Hyderabad,13,7,Groceries
+CUST0473,40,Male,39463,63,Bachelor's,Retail,Single,1,Chennai,10,12,Sports
+CUST0474,42,Female,78283,82,Bachelor's,Technology,Widowed,3,Chennai,3,11,Beauty
+CUST0475,51,Male,30698,21,Bachelor's,Retail,Single,4,Bengaluru,8,7,Beauty
+CUST0476,59,Female,83876,13,Bachelor's,Finance,Single,4,Hyderabad,11,7,Electronics
+CUST0477,62,Male,54401,14,High School,Education,Single,2,Delhi,1,10,Fashion
+CUST0478,18,Male,34085,68,Master's,Healthcare,Married,2,Hyderabad,12,13,Sports
+CUST0479,53,Female,42809,34,High School,Finance,Married,6,Kolkata,3,11,Beauty
+CUST0480,23,Male,40571,32,High School,Other,Single,3,Kolkata,4,4,Beauty
+CUST0481,33,Other,32057,68,Bachelor's,Other,Married,1,Hyderabad,6,10,Sports
+CUST0482,61,Female,56707,70,Master's,Other,Married,2,Delhi,8,9,Electronics
+CUST0483,31,Female,32898,40,Master's,Technology,Single,2,Pune,14,9,Sports
+CUST0484,60,Male,15753,19,PhD,Finance,Divorced,6,Delhi,3,14,Fashion
+CUST0485,42,Male,48166,43,Bachelor's,Healthcare,Single,2,Delhi,4,6,Sports
+CUST0486,30,Female,22549,38,Bachelor's,Other,Single,1,Other,6,9,Home & Living
+CUST0487,35,Male,41461,72,Bachelor's,Other,Divorced,3,Delhi,13,7,Fashion
+CUST0488,46,Male,38636,47,Master's,Other,Married,1,Other,15,11,Beauty
+CUST0489,58,Male,39318,51,Bachelor's,Technology,Single,2,Mumbai,7,12,Beauty
+CUST0490,50,Female,91017,89,Bachelor's,Healthcare,Married,6,Pune,11,7,Home & Living
+CUST0491,67,Female,56015,25,Bachelor's,Finance,Married,4,Other,14,7,Sports
+CUST0492,63,Female,59417,62,Bachelor's,Retail,Single,1,Kolkata,13,11,Electronics
+CUST0493,57,Female,23025,24,High School,Healthcare,Married,3,Mumbai,10,3,Fashion
+CUST0494,49,Male,43229,1,Bachelor's,Student,Married,1,Chennai,8,11,Electronics
+CUST0495,33,Female,58875,15,Bachelor's,Student,Single,1,Pune,15,9,Fashion
+CUST0496,39,Male,36558,22,Master's,Finance,Married,3,Delhi,3,8,Groceries
+CUST0497,24,Female,71345,72,Bachelor's,Education,Single,3,Delhi,5,9,Groceries
+CUST0498,37,Male,33351,41,Master's,Education,Single,4,Mumbai,11,9,Fashion
+CUST0499,67,Other,49845,46,Bachelor's,Retail,Widowed,5,Delhi,0,11,Home & Living
+CUST0500,40,Male,44451,79,Master's,Student,Married,2,Mumbai,8,9,Fashion
+CUST0501,24,Male,57958,32,High School,Retail,Married,5,Delhi,13,9,Groceries
+CUST0502,52,Male,43471,41,Master's,Technology,Married,3,Pune,2,13,Beauty
+CUST0503,69,Male,50124,48,Bachelor's,Other,Married,2,Pune,12,8,Home & Living
+CUST0504,63,Male,50750,30,Bachelor's,Other,Single,4,Delhi,6,17,Electronics
+CUST0505,32,Female,41781,45,High School,Education,Widowed,1,Chennai,13,10,Fashion
+CUST0506,42,Male,63732,26,Bachelor's,Healthcare,Married,3,Hyderabad,10,14,Sports
+CUST0507,46,Female,59291,77,Bachelor's,Technology,Married,4,Hyderabad,2,9,Fashion
+CUST0508,31,Male,53405,38,Master's,Technology,Married,2,Other,11,10,Beauty
+CUST0509,32,Female,47252,84,PhD,Other,Single,5,Hyderabad,0,6,Fashion
+CUST0510,30,Male,69338,59,Bachelor's,Technology,Single,2,Hyderabad,3,11,Home & Living
+CUST0511,70,Female,50755,61,Bachelor's,Education,Single,4,Kolkata,14,9,Groceries
+CUST0512,57,Female,49479,43,Bachelor's,Education,Single,1,Kolkata,14,7,Home & Living
+CUST0513,62,Male,56884,47,Master's,Finance,Married,1,Chennai,0,5,Sports
+CUST0514,61,Female,85539,53,Master's,Retail,Divorced,2,Other,6,10,Electronics
+CUST0515,68,Male,30874,34,Bachelor's,Education,Single,5,Bengaluru,1,14,Groceries
+CUST0516,23,Male,68857,66,PhD,Retail,Single,1,Hyderabad,4,8,Home & Living
+CUST0517,64,Female,20923,13,Bachelor's,Education,Married,5,Delhi,15,6,Fashion
+CUST0518,21,Female,58911,53,Master's,Education,Single,2,Bengaluru,3,9,Groceries
+CUST0519,43,Male,83351,54,PhD,Technology,Divorced,3,Pune,10,12,Beauty
+CUST0520,49,Male,63796,95,Master's,Technology,Single,2,Hyderabad,12,8,Fashion
+CUST0521,36,Female,58071,51,High School,Education,Single,1,Kolkata,14,10,Fashion
+CUST0522,25,Female,44912,75,Bachelor's,Student,Single,5,Other,5,8,Home & Living
+CUST0523,28,Other,55559,49,High School,Healthcare,Divorced,3,Other,11,6,Electronics
+CUST0524,61,Female,50463,48,Master's,Education,Single,4,Bengaluru,7,5,Electronics
+CUST0525,34,Female,40852,19,Bachelor's,Education,Married,3,Mumbai,1,12,Beauty
+CUST0526,34,Male,49782,40,Master's,Retail,Single,3,Chennai,3,3,Fashion
+CUST0527,66,Female,58571,51,Master's,Other,Single,3,Pune,11,8,Electronics
+CUST0528,25,Male,41190,74,High School,Retail,Divorced,5,Bengaluru,10,10,Home & Living
+CUST0529,66,Female,40487,41,Bachelor's,Student,Single,4,Kolkata,8,9,Groceries
+CUST0530,66,Male,30516,57,Bachelor's,Healthcare,Single,3,Kolkata,12,10,Groceries
+CUST0531,49,Female,62033,64,Bachelor's,Retail,Married,3,Pune,11,9,Groceries
+CUST0532,26,Female,64816,87,High School,Finance,Divorced,3,Pune,5,7,Electronics
+CUST0533,26,Female,59170,54,High School,Education,Single,3,Pune,4,9,Beauty
+CUST0534,33,Female,72373,100,Bachelor's,Education,Single,3,Delhi,15,11,Electronics
+CUST0535,48,Male,56582,41,Bachelor's,Healthcare,Widowed,3,Delhi,15,6,Groceries
+CUST0536,26,Female,62056,43,Bachelor's,Finance,Married,4,Bengaluru,0,8,Fashion
+CUST0537,42,Male,60469,31,High School,Technology,Married,6,Delhi,12,12,Home & Living
+CUST0538,24,Male,53352,94,Bachelor's,Education,Married,6,Bengaluru,2,13,Home & Living
+CUST0539,46,Male,45445,58,Bachelor's,Technology,Married,4,Chennai,13,5,Groceries
+CUST0540,19,Male,94855,70,Bachelor's,Finance,Married,3,Mumbai,9,11,Home & Living
+CUST0541,55,Male,46865,65,Master's,Other,Single,4,Kolkata,11,5,Fashion
+CUST0542,20,Female,43014,59,Bachelor's,Education,Married,1,Bengaluru,11,13,Electronics
+CUST0543,28,Female,62812,92,Bachelor's,Healthcare,Married,3,Hyderabad,9,10,Beauty
+CUST0544,27,Female,59533,27,Master's,Other,Divorced,2,Chennai,4,10,Home & Living
+CUST0545,62,Male,29714,27,Bachelor's,Finance,Married,1,Mumbai,12,9,Home & Living
+CUST0546,20,Male,75208,57,Bachelor's,Healthcare,Single,6,Mumbai,8,7,Beauty
+CUST0547,40,Male,53304,14,High School,Student,Married,5,Chennai,8,8,Beauty
+CUST0548,49,Female,35003,56,High School,Student,Married,3,Delhi,5,7,Home & Living
+CUST0549,45,Female,76398,56,High School,Technology,Married,2,Pune,0,13,Sports
+CUST0550,54,Male,66262,67,Master's,Technology,Married,4,Pune,8,10,Home & Living
+CUST0551,60,Female,32238,76,Master's,Retail,Married,3,Kolkata,5,9,Fashion
+CUST0552,38,Male,86989,62,High School,Education,Single,4,Other,10,6,Home & Living
+CUST0553,61,Male,66858,45,High School,Other,Married,6,Kolkata,5,4,Beauty
+CUST0554,34,Male,54816,53,Bachelor's,Education,Married,2,Bengaluru,15,15,Beauty
+CUST0555,70,Male,83624,78,Bachelor's,Other,Divorced,2,Hyderabad,10,7,Home & Living
+CUST0556,44,Female,57867,41,Bachelor's,Education,Married,2,Mumbai,7,9,Beauty
+CUST0557,57,Female,54495,35,Master's,Healthcare,Married,1,Delhi,11,8,Fashion
+CUST0558,64,Male,43115,58,Master's,Retail,Married,2,Kolkata,10,9,Electronics
+CUST0559,60,Female,65473,59,Bachelor's,Education,Married,1,Hyderabad,9,12,Groceries
+CUST0560,63,Female,63579,14,Bachelor's,Technology,Single,1,Kolkata,9,6,Fashion
+CUST0561,46,Female,55264,27,Bachelor's,Education,Divorced,2,Bengaluru,14,10,Beauty
+CUST0562,20,Female,40780,73,Bachelor's,Finance,Divorced,1,Bengaluru,5,3,Electronics
+CUST0563,44,Male,57339,58,Master's,Healthcare,Married,4,Other,6,12,Home & Living
+CUST0564,27,Female,53744,38,High School,Finance,Married,1,Other,4,9,Sports
+CUST0565,65,Male,30997,29,Master's,Other,Single,5,Pune,9,7,Electronics
+CUST0566,30,Other,28507,37,Master's,Healthcare,Married,2,Hyderabad,15,6,Electronics
+CUST0567,30,Male,65173,71,Master's,Healthcare,Married,1,Chennai,9,12,Home & Living
+CUST0568,31,Female,12000,3,Bachelor's,Healthcare,Married,1,Mumbai,3,5,Beauty
+CUST0569,52,Male,58697,35,Bachelor's,Retail,Single,4,Delhi,14,9,Electronics
+CUST0570,48,Male,46395,49,Master's,Technology,Married,2,Other,12,7,Electronics
+CUST0571,68,Female,78548,56,Master's,Other,Single,3,Bengaluru,7,7,Beauty
+CUST0572,40,Female,46118,55,Bachelor's,Healthcare,Married,1,Bengaluru,2,8,Home & Living
+CUST0573,32,Male,66871,36,Master's,Retail,Married,6,Delhi,6,6,Sports
+CUST0574,20,Female,47856,56,Bachelor's,Retail,Single,1,Mumbai,12,12,Fashion
+CUST0575,18,Female,57047,75,Bachelor's,Retail,Married,2,Hyderabad,9,12,Fashion
+CUST0576,37,Male,68263,67,Master's,Other,Married,5,Bengaluru,2,11,Groceries
+CUST0577,67,Female,46674,43,Bachelor's,Technology,Married,2,Chennai,2,7,Fashion
+CUST0578,45,Female,72938,57,Bachelor's,Finance,Single,2,Delhi,15,8,Groceries
+CUST0579,65,Female,37113,21,PhD,Student,Married,4,Kolkata,7,7,Beauty
+CUST0580,23,Male,60303,55,Master's,Healthcare,Single,2,Other,10,8,Sports
+CUST0581,22,Male,71608,85,Master's,Student,Married,1,Bengaluru,5,13,Beauty
+CUST0582,62,Female,66881,50,Bachelor's,Finance,Married,2,Mumbai,1,4,Groceries
+CUST0583,23,Female,89496,56,PhD,Finance,Single,1,Mumbai,6,11,Sports
+CUST0584,20,Female,41258,37,High School,Retail,Married,5,Hyderabad,11,13,Groceries
+CUST0585,39,Other,30175,40,Bachelor's,Technology,Married,3,Chennai,5,5,Home & Living
+CUST0586,67,Female,37102,28,Bachelor's,Healthcare,Married,3,Bengaluru,9,7,Sports
+CUST0587,54,Female,66888,63,Master's,Finance,Single,2,Other,7,8,Sports
+CUST0588,23,Female,63963,67,Master's,Retail,Single,4,Other,5,7,Beauty
+CUST0589,62,Female,56841,63,Master's,Other,Married,4,Delhi,4,6,Electronics
+CUST0590,62,Male,34787,60,Bachelor's,Student,Single,1,Hyderabad,4,4,Sports
+CUST0591,60,Male,68804,72,Bachelor's,Healthcare,Married,5,Other,4,14,Sports
+CUST0592,65,Female,32955,16,Bachelor's,Student,Single,3,Bengaluru,11,4,Sports
+CUST0593,30,Male,75861,47,Bachelor's,Retail,Single,4,Kolkata,5,8,Electronics
+CUST0594,69,Male,106434,72,High School,Student,Married,2,Delhi,11,10,Groceries
+CUST0595,34,Female,61596,47,Bachelor's,Retail,Single,1,Hyderabad,4,6,Beauty
+CUST0596,60,Male,65496,32,Master's,Technology,Married,4,Other,5,10,Beauty
+CUST0597,48,Male,46129,36,Master's,Student,Single,4,Delhi,14,8,Fashion
+CUST0598,59,Female,22416,20,Master's,Other,Married,2,Chennai,14,7,Groceries
+CUST0599,51,Female,44151,30,Bachelor's,Education,Married,1,Bengaluru,6,9,Beauty
+CUST0600,52,Male,35328,31,Bachelor's,Healthcare,Married,4,Mumbai,4,15,Beauty
+CUST0601,50,Male,28954,55,High School,Finance,Married,2,Hyderabad,11,6,Fashion
+CUST0602,59,Male,86002,67,Bachelor's,Technology,Single,2,Other,1,8,Sports
+CUST0603,57,Female,59912,94,Bachelor's,Finance,Married,3,Delhi,7,10,Beauty
+CUST0604,25,Female,61834,60,Bachelor's,Education,Single,1,Kolkata,9,6,Electronics
+CUST0605,61,Male,49438,38,High School,Technology,Married,1,Mumbai,10,7,Electronics
+CUST0606,46,Female,51888,47,Master's,Healthcare,Single,1,Mumbai,1,10,Electronics
+CUST0607,35,Male,72362,65,Bachelor's,Student,Married,5,Hyderabad,0,8,Electronics
+CUST0608,45,Male,54418,57,Bachelor's,Healthcare,Single,2,Chennai,4,11,Sports
+CUST0609,69,Other,64552,87,High School,Finance,Divorced,4,Kolkata,1,7,Groceries
+CUST0610,63,Male,51472,29,Bachelor's,Student,Married,6,Mumbai,8,9,Sports
+CUST0611,62,Male,48841,58,Bachelor's,Student,Married,4,Hyderabad,14,9,Electronics
+CUST0612,42,Male,29676,39,Bachelor's,Finance,Single,3,Bengaluru,4,8,Home & Living
+CUST0613,59,Female,19401,1,Bachelor's,Healthcare,Single,3,Chennai,7,10,Sports
+CUST0614,38,Female,50292,62,High School,Student,Single,2,Mumbai,3,8,Beauty
+CUST0615,54,Other,56017,71,Master's,Retail,Divorced,3,Mumbai,0,9,Fashion
+CUST0616,51,Male,31850,20,High School,Retail,Married,6,Delhi,11,10,Home & Living
+CUST0617,31,Male,54379,51,Bachelor's,Student,Single,4,Kolkata,4,15,Groceries
+CUST0618,32,Female,55968,21,High School,Technology,Married,2,Kolkata,8,9,Groceries
+CUST0619,21,Male,16192,9,Bachelor's,Healthcare,Married,2,Chennai,10,8,Home & Living
+CUST0620,25,Female,38528,62,Bachelor's,Retail,Single,5,Delhi,13,6,Home & Living
+CUST0621,40,Female,62331,46,Master's,Student,Married,1,Chennai,2,9,Sports
+CUST0622,43,Male,61967,33,Bachelor's,Retail,Single,4,Other,9,12,Electronics
+CUST0623,26,Female,34234,45,Bachelor's,Healthcare,Single,2,Hyderabad,14,6,Fashion
+CUST0624,40,Male,57852,42,High School,Student,Married,4,Chennai,7,7,Home & Living
+CUST0625,50,Male,73403,50,High School,Other,Single,4,Kolkata,0,9,Home & Living
+CUST0626,30,Female,68987,73,Bachelor's,Student,Divorced,3,Bengaluru,4,9,Beauty
+CUST0627,35,Female,53285,29,Bachelor's,Student,Married,2,Other,12,15,Sports
+CUST0628,37,Female,46576,30,Bachelor's,Other,Married,4,Bengaluru,12,5,Electronics
+CUST0629,44,Female,43672,46,PhD,Education,Married,2,Pune,5,6,Groceries
+CUST0630,37,Other,63421,73,Master's,Education,Divorced,2,Hyderabad,3,5,Beauty
+CUST0631,57,Other,58512,71,PhD,Finance,Single,3,Mumbai,4,6,Beauty
+CUST0632,35,Female,66329,45,Bachelor's,Finance,Married,3,Delhi,3,6,Sports
+CUST0633,40,Male,57374,68,Master's,Finance,Married,4,Kolkata,11,9,Groceries
+CUST0634,38,Female,69738,44,Bachelor's,Student,Divorced,1,Mumbai,13,8,Electronics
+CUST0635,27,Other,56703,86,Bachelor's,Education,Single,3,Mumbai,0,11,Fashion
+CUST0636,54,Male,69124,35,PhD,Technology,Married,5,Hyderabad,11,16,Beauty
+CUST0637,30,Male,70675,84,Bachelor's,Retail,Married,1,Chennai,12,10,Groceries
+CUST0638,33,Male,40519,31,Master's,Education,Single,3,Bengaluru,9,10,Sports
+CUST0639,60,Male,22453,65,Master's,Student,Divorced,4,Hyderabad,13,12,Electronics
+CUST0640,68,Female,82783,71,High School,Other,Single,5,Pune,0,8,Groceries
+CUST0641,53,Male,59620,32,Master's,Technology,Single,3,Hyderabad,11,8,Beauty
+CUST0642,66,Female,24139,19,Bachelor's,Technology,Married,4,Other,2,9,Fashion
+CUST0643,63,Female,42151,53,Master's,Other,Married,2,Mumbai,14,7,Electronics
+CUST0644,43,Female,68894,76,Master's,Retail,Single,2,Pune,7,14,Fashion
+CUST0645,58,Male,49966,43,High School,Other,Single,5,Bengaluru,1,5,Electronics
+CUST0646,35,Male,45783,47,High School,Finance,Single,5,Delhi,11,14,Home & Living
+CUST0647,42,Female,80216,77,High School,Other,Married,3,Delhi,11,9,Fashion
+CUST0648,46,Female,36149,41,Bachelor's,Student,Divorced,3,Kolkata,7,11,Fashion
+CUST0649,68,Female,40633,14,High School,Finance,Married,3,Other,4,11,Home & Living
+CUST0650,62,Female,58805,34,Master's,Healthcare,Single,1,Delhi,0,12,Fashion
+CUST0651,43,Male,62028,58,Bachelor's,Healthcare,Married,5,Pune,14,11,Home & Living
+CUST0652,52,Female,63934,75,Master's,Technology,Married,4,Pune,2,9,Beauty
+CUST0653,28,Male,71402,90,Bachelor's,Technology,Married,3,Bengaluru,13,5,Beauty
+CUST0654,60,Male,58574,62,Bachelor's,Education,Single,2,Other,9,13,Sports
+CUST0655,47,Female,63809,59,High School,Other,Single,2,Other,10,15,Beauty
+CUST0656,46,Male,50334,60,Master's,Finance,Divorced,1,Other,11,6,Sports
+CUST0657,58,Male,56129,35,High School,Healthcare,Married,4,Bengaluru,13,14,Electronics
+CUST0658,51,Male,56936,46,High School,Education,Single,3,Mumbai,0,11,Beauty
+CUST0659,21,Male,58872,41,High School,Education,Married,2,Kolkata,15,14,Home & Living
+CUST0660,33,Female,68906,37,Master's,Technology,Single,3,Pune,0,5,Electronics
+CUST0661,27,Male,64993,64,High School,Education,Single,6,Pune,15,8,Home & Living
+CUST0662,56,Female,55796,51,Bachelor's,Finance,Married,1,Chennai,4,15,Fashion
+CUST0663,19,Female,40436,58,Master's,Technology,Married,3,Kolkata,13,11,Home & Living
+CUST0664,28,Male,56218,63,Master's,Finance,Married,3,Pune,1,14,Home & Living
+CUST0665,49,Male,54496,52,High School,Finance,Divorced,1,Mumbai,7,12,Electronics
+CUST0666,54,Female,58477,59,High School,Education,Married,3,Chennai,8,8,Groceries
+CUST0667,44,Female,94717,71,Bachelor's,Healthcare,Single,3,Hyderabad,15,13,Electronics
+CUST0668,63,Female,45572,48,High School,Education,Married,1,Delhi,1,9,Electronics
+CUST0669,66,Female,62601,36,Master's,Retail,Married,1,Kolkata,0,5,Fashion
+CUST0670,25,Male,74232,70,Bachelor's,Technology,Married,5,Kolkata,10,8,Sports
+CUST0671,68,Male,56764,58,Bachelor's,Finance,Widowed,2,Other,0,11,Groceries
+CUST0672,50,Female,97081,60,High School,Finance,Married,3,Other,12,10,Electronics
+CUST0673,51,Male,48195,45,Bachelor's,Healthcare,Single,3,Bengaluru,0,7,Sports
+CUST0674,23,Female,60834,45,High School,Healthcare,Single,4,Bengaluru,15,17,Home & Living
+CUST0675,50,Female,40621,31,Master's,Other,Married,4,Bengaluru,8,14,Electronics
+CUST0676,56,Female,48673,23,High School,Healthcare,Widowed,4,Mumbai,15,15,Home & Living
+CUST0677,48,Male,59481,74,PhD,Finance,Single,3,Chennai,2,11,Fashion
+CUST0678,22,Male,70233,81,Master's,Technology,Single,3,Mumbai,4,11,Home & Living
+CUST0679,45,Male,60744,62,High School,Other,Married,2,Chennai,7,16,Beauty
+CUST0680,67,Male,77664,93,High School,Finance,Single,2,Bengaluru,0,7,Fashion
+CUST0681,56,Female,53291,43,Bachelor's,Retail,Single,2,Hyderabad,1,7,Sports
+CUST0682,25,Male,49021,100,High School,Finance,Divorced,1,Other,5,9,Electronics
+CUST0683,68,Male,103672,68,High School,Healthcare,Married,2,Delhi,11,10,Groceries
+CUST0684,68,Male,62096,53,Master's,Healthcare,Divorced,2,Kolkata,11,5,Beauty
+CUST0685,26,Male,42049,38,Bachelor's,Finance,Married,1,Chennai,1,5,Electronics
+CUST0686,60,Female,42503,46,High School,Other,Single,2,Kolkata,0,7,Beauty
+CUST0687,39,Male,38032,56,Bachelor's,Student,Divorced,4,Delhi,10,10,Electronics
+CUST0688,49,Other,71858,56,Bachelor's,Retail,Single,3,Pune,5,15,Groceries
+CUST0689,41,Male,48441,78,PhD,Retail,Single,4,Bengaluru,12,8,Fashion
+CUST0690,59,Female,57293,52,High School,Student,Divorced,3,Chennai,4,10,Electronics
+CUST0691,70,Male,53857,49,Master's,Student,Married,5,Pune,5,11,Groceries
+CUST0692,60,Male,68167,37,Master's,Finance,Divorced,4,Delhi,3,11,Home & Living
+CUST0693,67,Female,39759,44,High School,Retail,Single,1,Bengaluru,4,9,Sports
+CUST0694,68,Other,35640,32,High School,Healthcare,Divorced,6,Kolkata,11,4,Fashion
+CUST0695,22,Female,59037,45,Bachelor's,Finance,Married,1,Bengaluru,7,9,Groceries
+CUST0696,31,Male,65817,44,Master's,Other,Married,3,Delhi,10,7,Fashion
+CUST0697,56,Male,60986,99,Bachelor's,Healthcare,Divorced,4,Other,1,9,Sports
+CUST0698,49,Female,40430,36,Bachelor's,Technology,Married,2,Mumbai,8,14,Fashion
+CUST0699,20,Male,67195,34,Master's,Other,Married,3,Delhi,7,10,Beauty
+CUST0700,23,Female,41611,33,Master's,Technology,Married,2,Kolkata,14,6,Fashion
+CUST0701,45,Female,45612,43,Bachelor's,Education,Married,1,Delhi,6,9,Home & Living
+CUST0702,50,Female,38009,49,Bachelor's,Education,Divorced,1,Delhi,1,12,Fashion
+CUST0703,26,Female,78421,76,Master's,Education,Married,1,Delhi,11,2,Beauty
+CUST0704,27,Female,66402,71,Bachelor's,Technology,Single,1,Hyderabad,2,12,Fashion
+CUST0705,24,Male,65890,47,Master's,Finance,Single,3,Other,14,8,Beauty
+CUST0706,47,Male,77450,67,High School,Finance,Divorced,3,Pune,6,8,Beauty
+CUST0707,18,Female,105628,66,High School,Technology,Widowed,3,Other,12,12,Groceries
+CUST0708,48,Female,24234,20,Master's,Education,Widowed,4,Other,10,11,Groceries
+CUST0709,43,Male,41709,26,Bachelor's,Student,Single,1,Bengaluru,7,8,Groceries
+CUST0710,42,Male,43909,22,High School,Technology,Married,2,Bengaluru,9,7,Groceries
+CUST0711,54,Female,39685,58,High School,Other,Married,4,Hyderabad,2,11,Groceries
+CUST0712,45,Female,35604,51,Bachelor's,Education,Married,5,Mumbai,1,14,Electronics
+CUST0713,56,Female,49606,62,Master's,Finance,Single,3,Chennai,12,14,Fashion
+CUST0714,58,Male,33101,35,High School,Other,Married,1,Other,15,11,Beauty
+CUST0715,66,Male,61031,63,High School,Finance,Single,4,Delhi,13,7,Beauty
+CUST0716,60,Female,55931,15,Bachelor's,Retail,Married,5,Pune,4,12,Electronics
+CUST0717,45,Male,63659,69,PhD,Finance,Single,2,Other,5,4,Sports
+CUST0718,44,Female,64139,58,Bachelor's,Education,Single,2,Chennai,5,8,Fashion
+CUST0719,30,Female,65854,69,PhD,Finance,Single,1,Mumbai,11,13,Home & Living
+CUST0720,49,Male,48279,51,Master's,Healthcare,Divorced,3,Mumbai,9,6,Home & Living
+CUST0721,25,Male,93181,56,Bachelor's,Other,Married,5,Delhi,12,11,Beauty
+CUST0722,67,Male,59220,21,Master's,Technology,Divorced,4,Mumbai,15,16,Sports
+CUST0723,62,Female,21475,15,Master's,Other,Married,2,Hyderabad,6,6,Sports
+CUST0724,24,Female,36957,53,Bachelor's,Other,Married,3,Chennai,10,8,Sports
+CUST0725,59,Male,23671,42,Bachelor's,Student,Single,4,Delhi,8,12,Home & Living
+CUST0726,24,Female,55312,28,Master's,Finance,Married,3,Chennai,15,13,Groceries
+CUST0727,56,Male,52808,28,Master's,Other,Single,4,Pune,5,10,Groceries
+CUST0728,22,Male,46568,36,Master's,Finance,Married,2,Kolkata,3,10,Groceries
+CUST0729,43,Female,91197,63,PhD,Healthcare,Married,2,Kolkata,6,6,Groceries
+CUST0730,52,Male,64882,29,Bachelor's,Other,Divorced,3,Other,9,8,Fashion
+CUST0731,56,Male,68070,29,Master's,Education,Single,3,Hyderabad,15,15,Fashion
+CUST0732,40,Female,38241,26,Master's,Student,Married,6,Chennai,13,10,Home & Living
+CUST0733,66,Male,37015,37,High School,Technology,Single,3,Other,0,5,Fashion
+CUST0734,59,Female,55662,26,High School,Finance,Single,2,Chennai,8,8,Groceries
+CUST0735,29,Male,58114,52,Bachelor's,Education,Married,2,Chennai,2,8,Sports
+CUST0736,53,Male,21586,48,Master's,Technology,Married,3,Delhi,5,10,Fashion
+CUST0737,56,Male,51754,22,Bachelor's,Retail,Married,2,Pune,15,16,Electronics
+CUST0738,35,Male,55253,47,Master's,Student,Single,4,Pune,15,9,Electronics
+CUST0739,57,Male,51127,63,High School,Technology,Widowed,2,Mumbai,2,7,Sports
+CUST0740,65,Male,40359,30,Bachelor's,Education,Widowed,2,Hyderabad,2,9,Beauty
+CUST0741,61,Female,45288,30,Bachelor's,Student,Married,3,Hyderabad,11,7,Sports
+CUST0742,58,Male,51817,66,High School,Healthcare,Divorced,1,Kolkata,6,15,Electronics
+CUST0743,51,Male,56634,43,Master's,Other,Single,4,Delhi,6,7,Home & Living
+CUST0744,32,Male,65886,77,High School,Other,Married,3,Chennai,13,5,Fashion
+CUST0745,60,Male,74455,65,Master's,Other,Divorced,3,Chennai,14,5,Fashion
+CUST0746,37,Male,49702,41,High School,Healthcare,Married,4,Hyderabad,14,10,Beauty
+CUST0747,46,Female,46789,53,PhD,Student,Married,4,Mumbai,12,12,Sports
+CUST0748,34,Male,62878,61,Bachelor's,Retail,Married,4,Pune,15,5,Sports
+CUST0749,34,Female,65995,76,High School,Healthcare,Married,2,Bengaluru,11,5,Home & Living
+CUST0750,26,Female,47184,38,High School,Retail,Married,2,Delhi,14,11,Home & Living
+CUST0751,68,Male,69227,54,High School,Student,Single,4,Kolkata,8,7,Beauty
+CUST0752,25,Male,72633,61,Bachelor's,Finance,Single,3,Other,0,3,Home & Living
+CUST0753,22,Male,78250,79,Master's,Finance,Married,3,Hyderabad,13,13,Home & Living
+CUST0754,67,Female,87010,44,Bachelor's,Other,Married,3,Bengaluru,14,11,Electronics
+CUST0755,47,Male,39405,58,Bachelor's,Student,Married,4,Delhi,4,7,Beauty
+CUST0756,41,Female,55250,58,Bachelor's,Healthcare,Divorced,2,Kolkata,6,9,Sports
+CUST0757,57,Female,55203,23,Bachelor's,Other,Married,3,Delhi,9,7,Groceries
+CUST0758,38,Female,53235,71,Master's,Healthcare,Married,1,Kolkata,10,10,Fashion
+CUST0759,24,Female,43313,87,Bachelor's,Finance,Married,2,Chennai,10,9,Beauty
+CUST0760,56,Other,28260,50,Master's,Technology,Married,4,Delhi,6,6,Beauty
+CUST0761,27,Male,56668,79,PhD,Retail,Married,3,Delhi,13,7,Groceries
+CUST0762,47,Male,41170,43,Bachelor's,Technology,Married,2,Mumbai,13,11,Fashion
+CUST0763,68,Male,56548,16,High School,Finance,Married,5,Hyderabad,15,7,Sports
+CUST0764,67,Female,40707,4,High School,Other,Married,4,Bengaluru,9,15,Home & Living
+CUST0765,37,Female,35206,44,Bachelor's,Finance,Married,3,Delhi,1,12,Beauty
+CUST0766,59,Female,59217,38,Bachelor's,Education,Married,6,Hyderabad,13,9,Home & Living
+CUST0767,50,Male,57717,33,PhD,Technology,Single,2,Bengaluru,1,8,Home & Living
+CUST0768,43,Other,65427,54,Bachelor's,Healthcare,Married,4,Delhi,3,10,Electronics
+CUST0769,25,Female,94346,86,Bachelor's,Retail,Married,1,Hyderabad,4,14,Home & Living
+CUST0770,37,Female,59991,27,Master's,Technology,Single,2,Other,2,5,Groceries
+CUST0771,52,Other,63731,45,Bachelor's,Finance,Married,2,Chennai,11,9,Fashion
+CUST0772,70,Male,35604,61,Master's,Education,Married,1,Delhi,7,17,Sports
+CUST0773,18,Male,31836,22,High School,Healthcare,Married,3,Mumbai,3,7,Groceries
+CUST0774,56,Female,83491,79,Bachelor's,Retail,Married,2,Chennai,0,10,Fashion
+CUST0775,62,Male,38377,28,PhD,Healthcare,Single,3,Other,3,10,Beauty
+CUST0776,68,Male,36209,44,Master's,Healthcare,Single,2,Other,11,13,Beauty
+CUST0777,40,Male,54296,69,Master's,Education,Single,1,Other,12,11,Groceries
+CUST0778,24,Male,53377,65,Bachelor's,Retail,Married,6,Pune,4,8,Fashion
+CUST0779,32,Female,38755,59,Master's,Other,Married,4,Chennai,1,9,Electronics
+CUST0780,63,Female,49510,22,Bachelor's,Finance,Married,5,Hyderabad,8,9,Home & Living
+CUST0781,64,Male,77129,78,Bachelor's,Finance,Married,3,Hyderabad,12,8,Home & Living
+CUST0782,51,Male,40492,25,High School,Retail,Single,1,Hyderabad,1,9,Home & Living
+CUST0783,24,Male,29914,44,High School,Technology,Single,3,Hyderabad,12,8,Sports
+CUST0784,24,Female,71967,67,Bachelor's,Technology,Single,3,Delhi,2,9,Groceries
+CUST0785,43,Female,63861,63,High School,Education,Married,1,Other,4,9,Sports
+CUST0786,49,Female,43831,48,Master's,Finance,Single,5,Kolkata,9,7,Home & Living
+CUST0787,19,Male,26521,23,Master's,Finance,Married,3,Bengaluru,0,8,Sports
+CUST0788,54,Male,41597,16,Master's,Technology,Married,4,Bengaluru,4,10,Sports
+CUST0789,46,Male,54015,64,High School,Retail,Married,3,Other,2,10,Electronics
+CUST0790,18,Female,75982,69,PhD,Healthcare,Single,3,Kolkata,3,10,Home & Living
+CUST0791,23,Male,36342,63,High School,Other,Single,2,Bengaluru,12,11,Beauty
+CUST0792,42,Female,53479,48,Bachelor's,Retail,Married,6,Mumbai,3,12,Home & Living
+CUST0793,56,Female,67153,29,Master's,Other,Married,2,Kolkata,0,6,Home & Living
+CUST0794,61,Male,12137,40,High School,Finance,Single,1,Delhi,3,7,Home & Living
+CUST0795,40,Male,73608,54,High School,Education,Divorced,1,Bengaluru,1,4,Home & Living
+CUST0796,33,Male,33716,46,High School,Technology,Married,3,Other,9,8,Groceries
+CUST0797,69,Male,60976,36,Bachelor's,Healthcare,Married,6,Bengaluru,15,11,Beauty
+CUST0798,42,Male,59440,82,Master's,Other,Single,5,Other,2,9,Electronics
+CUST0799,34,Female,74523,46,High School,Healthcare,Single,4,Hyderabad,11,6,Sports
+CUST0800,41,Male,64917,49,High School,Student,Single,6,Pune,5,11,Electronics
+CUST0801,18,Male,12209,32,Bachelor's,Technology,Single,4,Pune,1,7,Fashion
+CUST0802,34,Female,40874,24,High School,Finance,Married,2,Hyderabad,11,7,Home & Living
+CUST0803,45,Female,57488,56,Master's,Finance,Married,3,Hyderabad,3,6,Home & Living
+CUST0804,66,Male,51490,72,PhD,Other,Divorced,1,Delhi,8,6,Beauty
+CUST0805,57,Female,63597,43,Master's,Other,Divorced,2,Hyderabad,8,10,Fashion
+CUST0806,59,Female,69209,62,Master's,Education,Single,2,Kolkata,9,7,Electronics
+CUST0807,46,Female,65952,6,Bachelor's,Education,Single,2,Hyderabad,2,14,Fashion
+CUST0808,23,Female,51143,50,Master's,Retail,Married,6,Hyderabad,4,7,Home & Living
+CUST0809,38,Male,21766,26,High School,Student,Widowed,6,Pune,11,9,Groceries
+CUST0810,70,Female,46801,25,High School,Finance,Divorced,2,Hyderabad,14,8,Fashion
+CUST0811,20,Male,62495,77,Bachelor's,Education,Single,4,Mumbai,0,11,Beauty
+CUST0812,64,Female,35372,29,High School,Retail,Single,2,Mumbai,6,9,Home & Living
+CUST0813,54,Female,66363,51,Master's,Retail,Single,1,Chennai,14,5,Sports
+CUST0814,33,Male,71351,54,Master's,Finance,Married,2,Bengaluru,4,6,Sports
+CUST0815,59,Male,57284,13,PhD,Finance,Married,2,Mumbai,7,11,Groceries
+CUST0816,62,Female,12000,2,Bachelor's,Finance,Married,2,Bengaluru,14,13,Sports
+CUST0817,20,Female,31994,58,Bachelor's,Finance,Married,2,Chennai,15,10,Beauty
+CUST0818,23,Male,88951,34,Master's,Technology,Single,1,Delhi,10,8,Sports
+CUST0819,53,Female,45162,28,High School,Technology,Married,2,Hyderabad,11,9,Fashion
+CUST0820,70,Female,19285,18,Bachelor's,Retail,Single,5,Mumbai,9,6,Sports
+CUST0821,19,Female,77234,98,Bachelor's,Finance,Married,1,Mumbai,4,6,Fashion
+CUST0822,53,Male,55240,62,PhD,Technology,Married,2,Bengaluru,14,10,Electronics
+CUST0823,25,Male,74889,54,Master's,Other,Married,3,Kolkata,0,11,Groceries
+CUST0824,52,Female,59985,74,High School,Other,Single,2,Chennai,0,8,Home & Living
+CUST0825,51,Male,63254,39,Bachelor's,Finance,Married,3,Hyderabad,9,7,Groceries
+CUST0826,22,Female,61534,75,Bachelor's,Technology,Married,1,Other,13,11,Fashion
+CUST0827,54,Male,67555,30,High School,Other,Single,3,Mumbai,13,8,Fashion
+CUST0828,65,Female,95994,88,Bachelor's,Technology,Single,3,Chennai,10,14,Beauty
+CUST0829,63,Male,72478,48,Bachelor's,Education,Married,4,Chennai,6,10,Fashion
+CUST0830,19,Male,26554,19,High School,Other,Single,3,Hyderabad,5,3,Sports
+CUST0831,31,Female,63040,52,Bachelor's,Education,Single,3,Chennai,6,10,Fashion
+CUST0832,30,Female,75547,68,High School,Technology,Single,2,Pune,4,7,Electronics
+CUST0833,42,Female,76649,53,Bachelor's,Student,Single,2,Pune,6,4,Electronics
+CUST0834,25,Female,47321,58,High School,Healthcare,Married,3,Kolkata,1,5,Fashion
+CUST0835,63,Female,75969,47,Master's,Finance,Married,1,Mumbai,5,7,Beauty
+CUST0836,59,Female,71699,67,High School,Retail,Single,2,Hyderabad,15,8,Groceries
+CUST0837,60,Male,101305,80,Master's,Technology,Married,4,Chennai,11,7,Sports
+CUST0838,28,Female,41500,44,High School,Technology,Single,1,Bengaluru,2,8,Beauty
+CUST0839,18,Female,45867,41,Bachelor's,Finance,Single,1,Delhi,4,12,Electronics
+CUST0840,66,Male,49490,45,Bachelor's,Technology,Single,4,Chennai,4,5,Electronics
+CUST0841,33,Male,46176,56,High School,Student,Married,2,Hyderabad,4,11,Beauty
+CUST0842,52,Female,38980,76,Bachelor's,Education,Divorced,4,Kolkata,11,15,Home & Living
+CUST0843,66,Female,12000,38,Master's,Education,Married,5,Chennai,14,8,Home & Living
+CUST0844,19,Female,47175,67,Master's,Technology,Single,6,Other,11,8,Groceries
+CUST0845,18,Other,61648,100,Bachelor's,Technology,Single,2,Chennai,7,9,Sports
+CUST0846,18,Female,46122,58,High School,Technology,Single,2,Other,2,8,Home & Living
+CUST0847,26,Male,89837,81,Master's,Healthcare,Married,3,Mumbai,2,7,Fashion
+CUST0848,20,Male,55241,66,Bachelor's,Student,Single,3,Kolkata,13,12,Home & Living
+CUST0849,61,Male,78239,41,High School,Student,Widowed,3,Hyderabad,10,15,Electronics
+CUST0850,50,Male,59706,43,Master's,Healthcare,Married,2,Delhi,8,9,Fashion
+CUST0851,69,Female,69875,44,Bachelor's,Student,Married,1,Kolkata,9,10,Fashion
+CUST0852,60,Female,60026,61,Bachelor's,Healthcare,Married,2,Delhi,13,8,Sports
+CUST0853,69,Male,79638,55,Bachelor's,Finance,Single,1,Other,13,5,Sports
+CUST0854,30,Male,56007,55,Bachelor's,Student,Married,1,Pune,1,5,Electronics
+CUST0855,33,Female,63930,76,High School,Finance,Single,5,Mumbai,6,7,Beauty
+CUST0856,63,Male,61594,65,Master's,Finance,Married,1,Chennai,0,7,Sports
+CUST0857,30,Female,49811,46,High School,Finance,Married,3,Mumbai,6,11,Groceries
+CUST0858,21,Male,62290,45,Master's,Finance,Single,5,Delhi,10,10,Fashion
+CUST0859,53,Female,95219,90,Master's,Retail,Married,2,Other,3,10,Groceries
+CUST0860,60,Male,50133,58,Master's,Student,Single,3,Pune,2,12,Home & Living
+CUST0861,69,Female,62550,20,High School,Technology,Single,4,Mumbai,7,9,Home & Living
+CUST0862,67,Male,77640,52,Bachelor's,Healthcare,Married,2,Mumbai,8,8,Groceries
+CUST0863,24,Female,75525,67,Bachelor's,Finance,Married,3,Pune,11,15,Electronics
+CUST0864,58,Male,55211,61,Bachelor's,Other,Divorced,4,Bengaluru,0,8,Home & Living
+CUST0865,62,Male,12099,39,Master's,Other,Married,4,Bengaluru,3,11,Sports
+CUST0866,55,Female,64301,58,Bachelor's,Finance,Married,4,Bengaluru,12,9,Fashion
+CUST0867,61,Male,15049,35,Master's,Healthcare,Single,6,Bengaluru,10,8,Home & Living
+CUST0868,62,Male,81459,62,High School,Healthcare,Single,2,Chennai,14,7,Home & Living
+CUST0869,41,Male,58051,39,Bachelor's,Student,Widowed,4,Kolkata,13,10,Home & Living
+CUST0870,20,Male,72994,59,High School,Education,Single,3,Bengaluru,13,5,Electronics
+CUST0871,42,Male,38762,41,Master's,Education,Married,4,Bengaluru,8,11,Fashion
+CUST0872,28,Female,27055,36,High School,Technology,Single,4,Mumbai,15,4,Groceries
+CUST0873,24,Male,59694,22,Bachelor's,Retail,Single,4,Mumbai,6,10,Beauty
+CUST0874,24,Female,54395,45,Master's,Retail,Married,5,Bengaluru,14,6,Sports
+CUST0875,54,Other,46152,44,Bachelor's,Healthcare,Married,2,Mumbai,6,11,Beauty
+CUST0876,44,Male,56524,45,High School,Other,Married,4,Other,7,9,Groceries
+CUST0877,46,Female,104814,72,High School,Student,Divorced,2,Chennai,10,9,Fashion
+CUST0878,57,Female,70021,64,Bachelor's,Other,Single,3,Chennai,6,7,Groceries
+CUST0879,47,Female,73891,40,Bachelor's,Retail,Married,4,Mumbai,2,7,Sports
+CUST0880,51,Male,70191,27,High School,Technology,Single,4,Other,14,9,Home & Living
+CUST0881,22,Male,81630,62,Bachelor's,Finance,Married,2,Kolkata,7,10,Home & Living
+CUST0882,63,Male,51579,58,High School,Healthcare,Single,3,Chennai,14,4,Groceries
+CUST0883,41,Female,18014,60,Bachelor's,Retail,Married,2,Delhi,6,17,Sports
+CUST0884,26,Other,51605,65,Bachelor's,Technology,Single,1,Pune,15,8,Beauty
+CUST0885,61,Female,69611,28,High School,Technology,Married,2,Bengaluru,9,17,Sports
+CUST0886,56,Male,37544,33,High School,Healthcare,Married,5,Mumbai,12,9,Groceries
+CUST0887,20,Female,51825,56,High School,Technology,Divorced,2,Kolkata,12,4,Beauty
+CUST0888,28,Male,42548,48,High School,Healthcare,Single,6,Pune,3,6,Beauty
+CUST0889,18,Female,82037,79,Bachelor's,Finance,Widowed,2,Bengaluru,13,9,Sports
+CUST0890,32,Male,68490,42,Master's,Finance,Single,4,Mumbai,15,6,Beauty
+CUST0891,23,Female,66728,61,Master's,Education,Single,3,Pune,10,10,Fashion
+CUST0892,55,Female,66189,61,Bachelor's,Technology,Single,4,Kolkata,15,11,Groceries
+CUST0893,45,Male,54330,64,Bachelor's,Technology,Single,3,Bengaluru,13,9,Fashion
+CUST0894,69,Male,58556,32,Bachelor's,Other,Married,4,Delhi,10,9,Groceries
+CUST0895,57,Female,33667,29,Master's,Technology,Single,5,Delhi,7,10,Sports
+CUST0896,50,Male,15644,1,High School,Student,Married,3,Kolkata,13,7,Sports
+CUST0897,44,Female,57701,40,Bachelor's,Education,Married,1,Delhi,2,11,Electronics
+CUST0898,20,Female,60832,47,Bachelor's,Student,Married,2,Other,8,5,Sports
+CUST0899,21,Female,76767,47,High School,Healthcare,Married,4,Bengaluru,13,8,Fashion
+CUST0900,50,Male,83284,67,Bachelor's,Retail,Married,3,Other,15,11,Fashion
+CUST0901,18,Male,83260,69,Master's,Technology,Single,3,Mumbai,4,7,Home & Living
+CUST0902,20,Male,37036,3,Master's,Finance,Married,3,Pune,1,10,Fashion
+CUST0903,29,Female,48659,52,High School,Education,Single,2,Kolkata,5,8,Beauty
+CUST0904,64,Male,63646,34,Bachelor's,Healthcare,Single,4,Kolkata,13,4,Electronics
+CUST0905,42,Male,100574,84,Bachelor's,Finance,Single,4,Kolkata,8,15,Electronics
+CUST0906,55,Male,81642,39,Bachelor's,Finance,Married,4,Other,0,9,Sports
+CUST0907,39,Female,75149,62,Bachelor's,Healthcare,Single,4,Hyderabad,1,7,Fashion
+CUST0908,27,Male,48020,43,High School,Technology,Married,5,Hyderabad,5,8,Sports
+CUST0909,37,Female,39102,47,Master's,Other,Single,3,Other,5,5,Sports
+CUST0910,22,Female,69200,63,PhD,Technology,Married,6,Mumbai,2,10,Fashion
+CUST0911,58,Female,35188,31,Bachelor's,Other,Married,1,Hyderabad,7,9,Home & Living
+CUST0912,27,Other,50708,22,Bachelor's,Education,Single,3,Chennai,7,12,Home & Living
+CUST0913,37,Female,52934,23,Bachelor's,Other,Married,4,Chennai,3,8,Electronics
+CUST0914,69,Female,83672,50,Bachelor's,Healthcare,Married,3,Hyderabad,3,12,Sports
+CUST0915,49,Male,48615,45,High School,Education,Married,2,Bengaluru,10,14,Beauty
+CUST0916,42,Female,12000,15,Bachelor's,Finance,Single,3,Kolkata,15,7,Beauty
+CUST0917,46,Female,64080,65,High School,Healthcare,Married,2,Kolkata,15,10,Electronics
+CUST0918,59,Female,42418,35,Master's,Technology,Single,5,Chennai,8,6,Fashion
+CUST0919,31,Female,55767,35,Bachelor's,Education,Single,2,Chennai,0,8,Sports
+CUST0920,51,Other,53439,42,Bachelor's,Finance,Single,1,Hyderabad,14,11,Fashion
+CUST0921,64,Female,50073,47,Bachelor's,Technology,Married,3,Chennai,15,6,Home & Living
+CUST0922,48,Female,69226,62,PhD,Retail,Single,2,Delhi,4,9,Groceries
+CUST0923,41,Male,27408,68,High School,Finance,Married,1,Mumbai,6,8,Fashion
+CUST0924,25,Male,45694,35,High School,Technology,Single,3,Bengaluru,0,11,Home & Living
+CUST0925,31,Male,67313,57,High School,Other,Married,3,Other,12,12,Fashion
+CUST0926,68,Male,43946,46,Bachelor's,Student,Single,1,Chennai,12,15,Electronics
+CUST0927,46,Male,26041,32,PhD,Finance,Married,3,Hyderabad,0,4,Home & Living
+CUST0928,33,Male,67034,49,High School,Education,Married,3,Hyderabad,11,12,Fashion
+CUST0929,40,Female,75216,33,Master's,Finance,Married,4,Mumbai,6,7,Fashion
+CUST0930,48,Male,54190,39,Bachelor's,Retail,Single,2,Other,8,11,Sports
+CUST0931,46,Female,19705,10,Bachelor's,Finance,Married,2,Hyderabad,3,7,Home & Living
+CUST0932,55,Female,67707,23,High School,Finance,Widowed,6,Pune,13,13,Home & Living
+CUST0933,31,Male,25122,21,Bachelor's,Retail,Widowed,3,Hyderabad,6,12,Electronics
+CUST0934,52,Male,60558,32,Bachelor's,Finance,Single,1,Chennai,13,10,Electronics
+CUST0935,41,Male,39026,51,Bachelor's,Retail,Married,4,Kolkata,2,8,Groceries
+CUST0936,67,Other,34123,44,High School,Healthcare,Single,2,Chennai,9,8,Groceries
+CUST0937,26,Male,47046,32,Master's,Technology,Single,4,Delhi,4,9,Groceries
+CUST0938,25,Female,51701,46,PhD,Technology,Married,4,Chennai,15,3,Electronics
+CUST0939,42,Female,43404,10,Bachelor's,Finance,Married,6,Hyderabad,8,10,Beauty
+CUST0940,44,Other,65597,46,Bachelor's,Education,Married,6,Chennai,11,11,Groceries
+CUST0941,54,Male,46971,50,Master's,Student,Married,2,Mumbai,1,9,Sports
+CUST0942,39,Male,72643,75,High School,Technology,Single,4,Kolkata,10,10,Groceries
+CUST0943,66,Male,60061,35,Master's,Other,Married,2,Hyderabad,1,8,Groceries
+CUST0944,43,Male,42444,61,Bachelor's,Retail,Single,3,Hyderabad,5,5,Electronics
+CUST0945,24,Male,39413,17,Master's,Retail,Single,3,Bengaluru,3,11,Sports
+CUST0946,24,Female,25345,14,High School,Technology,Single,1,Hyderabad,0,9,Electronics
+CUST0947,69,Female,60233,60,Bachelor's,Student,Divorced,1,Pune,9,6,Sports
+CUST0948,25,Female,48617,79,Bachelor's,Healthcare,Married,1,Chennai,3,13,Beauty
+CUST0949,68,Female,12300,30,Bachelor's,Retail,Single,1,Kolkata,8,6,Groceries
+CUST0950,32,Male,45357,45,Master's,Education,Married,2,Pune,12,3,Beauty
+CUST0951,22,Female,38781,5,PhD,Retail,Widowed,5,Bengaluru,2,4,Sports
+CUST0952,34,Female,83362,30,High School,Education,Divorced,3,Hyderabad,11,11,Electronics
+CUST0953,50,Female,24350,34,Bachelor's,Education,Married,4,Other,4,12,Fashion
+CUST0954,40,Female,29056,29,Bachelor's,Finance,Single,4,Mumbai,5,8,Home & Living
+CUST0955,59,Male,74979,38,Bachelor's,Other,Married,4,Chennai,9,14,Sports
+CUST0956,50,Male,79422,63,Bachelor's,Education,Married,2,Kolkata,10,11,Electronics
+CUST0957,39,Male,41590,45,Master's,Finance,Divorced,5,Other,10,10,Sports
+CUST0958,51,Male,43622,59,Master's,Other,Married,4,Kolkata,3,6,Sports
+CUST0959,69,Female,66092,53,High School,Healthcare,Married,4,Chennai,9,9,Electronics
+CUST0960,39,Male,13112,49,Bachelor's,Retail,Single,5,Mumbai,4,8,Beauty
+CUST0961,26,Female,21499,34,Bachelor's,Education,Married,3,Kolkata,4,11,Home & Living
+CUST0962,39,Female,49947,45,Bachelor's,Other,Single,3,Bengaluru,15,14,Home & Living
+CUST0963,62,Male,82898,81,High School,Education,Single,5,Other,1,10,Electronics
+CUST0964,29,Male,47157,30,Bachelor's,Finance,Married,3,Delhi,6,10,Home & Living
+CUST0965,68,Female,56817,97,Bachelor's,Healthcare,Married,4,Mumbai,7,11,Groceries
+CUST0966,49,Female,75408,66,High School,Finance,Married,1,Delhi,3,4,Groceries
+CUST0967,49,Male,92924,76,Master's,Healthcare,Married,1,Kolkata,12,7,Sports
+CUST0968,34,Male,44617,55,Bachelor's,Finance,Married,3,Delhi,7,12,Fashion
+CUST0969,66,Female,54697,79,Bachelor's,Retail,Married,1,Chennai,11,11,Electronics
+CUST0970,19,Male,87797,86,Bachelor's,Education,Married,6,Pune,6,11,Groceries
+CUST0971,33,Female,27600,7,Master's,Education,Single,1,Hyderabad,14,8,Sports
+CUST0972,40,Male,73496,86,High School,Healthcare,Married,4,Pune,11,13,Electronics
+CUST0973,43,Male,36670,33,High School,Retail,Single,2,Hyderabad,5,7,Beauty
+CUST0974,43,Female,56845,52,Bachelor's,Finance,Single,6,Bengaluru,15,10,Sports
+CUST0975,25,Female,50633,27,Bachelor's,Education,Single,2,Other,13,9,Beauty
+CUST0976,29,Female,37756,52,Bachelor's,Student,Married,1,Delhi,9,7,Groceries
+CUST0977,23,Male,37304,32,Master's,Student,Married,1,Hyderabad,0,7,Electronics
+CUST0978,48,Other,59975,53,High School,Student,Divorced,3,Kolkata,9,8,Fashion
+CUST0979,36,Female,72920,56,High School,Retail,Widowed,6,Pune,11,8,Home & Living
+CUST0980,47,Male,52665,82,Bachelor's,Retail,Divorced,6,Kolkata,5,11,Home & Living
+CUST0981,49,Male,56262,85,Master's,Student,Single,2,Delhi,2,6,Sports
+CUST0982,55,Male,65281,54,Master's,Student,Divorced,3,Bengaluru,9,10,Sports
+CUST0983,46,Female,37511,40,Master's,Retail,Married,1,Hyderabad,12,11,Sports
+CUST0984,52,Male,68314,49,Bachelor's,Education,Divorced,3,Kolkata,5,16,Home & Living
+CUST0985,49,Female,69748,76,Master's,Healthcare,Single,3,Mumbai,7,11,Electronics
+CUST0986,52,Male,101865,68,Master's,Finance,Single,2,Mumbai,0,7,Home & Living
+CUST0987,50,Other,48230,37,High School,Technology,Divorced,3,Hyderabad,11,9,Sports
+CUST0988,34,Male,46755,64,Bachelor's,Technology,Single,5,Other,13,8,Beauty
+CUST0989,31,Female,68841,50,Master's,Healthcare,Single,1,Chennai,12,8,Beauty
+CUST0990,59,Male,69744,54,Bachelor's,Other,Married,2,Chennai,6,9,Electronics
+CUST0991,36,Male,45368,17,Bachelor's,Retail,Single,2,Mumbai,0,8,Groceries
+CUST0992,47,Female,47743,57,Bachelor's,Technology,Single,1,Pune,7,7,Home & Living
+CUST0993,28,Female,64740,93,Bachelor's,Education,Widowed,1,Kolkata,15,6,Fashion
+CUST0994,40,Female,40103,55,High School,Other,Divorced,3,Delhi,1,9,Groceries
+CUST0995,46,Male,47610,71,Bachelor's,Other,Divorced,1,Delhi,3,6,Electronics
+CUST0996,51,Female,56613,34,Master's,Retail,Single,4,Mumbai,13,7,Fashion
+CUST0997,45,Female,72927,63,High School,Student,Single,5,Bengaluru,9,11,Electronics
+CUST0998,37,Female,44117,28,Bachelor's,Technology,Married,5,Other,2,7,Beauty
+CUST0999,68,Male,21837,22,High School,Technology,Married,4,Hyderabad,0,5,Beauty
+CUST1000,45,Female,20501,44,High School,Technology,Single,2,Bengaluru,6,9,Groceries
